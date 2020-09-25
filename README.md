@@ -30,6 +30,7 @@
 </p>
 
 <br>
+<h4 align="center">Highlights<h4/>
 <p align="center">
 	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Import%20Now-black.svg?style=for-the-badge&logo=download" alt="Django" />&nbsp;&nbsp;<a/>
 	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-black.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;<a/>
