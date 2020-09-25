@@ -30,7 +30,14 @@
 </p>
 
 <br>
-
+<p align="center">
+	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Import%20Now-black.svg?style=for-the-badge&logo=download" alt="Django" />&nbsp;&nbsp;<a/>
+	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-black.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;<a/>
+	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Created%20by%20Me-black.svg?style=for-the-badge&logo=download" alt="Django" />&nbsp;&nbsp;<a/>
+	
+	  
+</p>
+	  
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
 
@@ -98,3 +105,5 @@ JavaScript               1 repos             ██░░░░░░░░░�
 
 
 <!--END_SECTION:waka-->
+
+
