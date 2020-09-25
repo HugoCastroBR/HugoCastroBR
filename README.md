@@ -1,4 +1,4 @@
-<h1 align="center">Hugo Castro 💻</h1>
+<h1 align="center">Hugo Castro 👽💻</h1>
 
 <h5 align="center">A beginner developer !</h5>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
