@@ -26,6 +26,10 @@
 	<img src="https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;	
 	<img src="https://img.shields.io/badge/flask-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql" alt="PostgreSql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
+	
+	
 	
 </p>
 
