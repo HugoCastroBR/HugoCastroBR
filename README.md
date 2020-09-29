@@ -28,6 +28,7 @@
 	<img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql" alt="PostgreSql" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/sass-black.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
 	
 	
 	
