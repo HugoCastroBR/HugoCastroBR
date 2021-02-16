@@ -37,10 +37,18 @@
 <br>
 <h4 align="center">Highlights<h4/>
 <p align="center">
-	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Import%20Now-black.svg?style=for-the-badge&logo=download" alt="Django" />&nbsp;&nbsp;<a/>
-	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-black.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;<a/>
-	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Created%20by%20Me-black.svg?style=for-the-badge&logo=download" alt="Django" />&nbsp;&nbsp;<a/>
+	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Import%20Now-black.svg?style=for-the-badge&logo=download" alt="Import now" />&nbsp;&nbsp;<a/>
+	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-black.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="BadgeGenerator" />&nbsp;&nbsp;<a/>
+	<a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/Created%20by%20Me-black.svg?style=for-the-badge&logo=download" alt="Created by me" />&nbsp;&nbsp;<a/>
 	
+	  
+</p>
+<h4 align="center">Working on projects:<h4/>
+<p align="center">
+	
+	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-black.svg?style=for-the-badge" alt="UfoNight" />&nbsp;&nbsp;<a/>
+	
+	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-black.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
 	  
 </p>
 	  
