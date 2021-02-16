@@ -45,9 +45,7 @@
 </p>
 <h4 align="center">Working on projects:<h4/>
 <p align="center">
-	
-	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-black.svg?style=for-the-badge" alt="UfoNight" />&nbsp;&nbsp;<a/>
-	
+	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-black.svg?style=for-the-badge" alt="UfoNight"/>&nbsp;&nbsp;<a/>
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-black.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
 	  
 </p>
