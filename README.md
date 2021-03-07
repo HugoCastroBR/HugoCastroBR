@@ -11,7 +11,7 @@
 		<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
 		<a href="mailto:hugocastrohc@outlook.com">
-		<img src="https://img.shields.io/badge/protonmail-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	<a href="https://open.spotify.com/user/22uat6ppbmvcvyia5me7tdmci">
 		<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
@@ -23,15 +23,16 @@
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&" alt="NodeJS" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&" alt="ExpressJS" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;	
 	<img src="https://img.shields.io/badge/flask-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql" alt="PostgreSql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql" alt="Mysql" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/sass-black.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
-	
-	
-	
+
 </p>
 
 <br>
