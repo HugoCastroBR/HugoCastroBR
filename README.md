@@ -22,16 +22,16 @@
 <h4 align="center">Some technologies, languages and frameworks<h4/>
 	
 <p align="center">
-	<img src="https://img.shields.io/badge/javascript-black.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/node.js-black.svg?style=for-the-badge&" alt="NodeJS" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/express.js-black.svg?style=for-the-badge&" alt="ExpressJS" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/python-black.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;	
-	<img src="https://img.shields.io/badge/flask-black.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-Django-black.svg?style=for-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/postgresql-black.svg?style=for-the-badge&logo=postgresql" alt="PostgreSql" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/mysql-black.svg?style=for-the-badge&logo=mysql" alt="Mysql" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/html5-black.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/sass-black.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/javascript-79db75.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/node.js-79db75.svg?style=for-the-badge&" alt="NodeJS" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/express.js-79db75.svg?style=for-the-badge&" alt="ExpressJS" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/python-79db75.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;	
+	<img src="https://img.shields.io/badge/flask-79db75.svg?&style=for-the-badge&logo=flask&logoColor=white" alt="flask" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-Django-79db75.svg?style=for-the-badge&logo=django" alt="Django" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/postgresql-79db75.svg?style=for-the-badge&logo=postgresql" alt="PostgreSql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/mysql-79db75.svg?style=for-the-badge&logo=mysql" alt="Mysql" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/html5-79db75.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/sass-79db75.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
 
 </p>
 
