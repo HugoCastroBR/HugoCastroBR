@@ -45,10 +45,11 @@
 	  
 </p>
 <h4 align="center">Working on projects:<h4/>
+	
 <p align="center">
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-black.svg?style=for-the-badge" alt="UfoNight"/>&nbsp;&nbsp;<a/>
+		
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-black.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
-	  
 </p>
 
 <table>
@@ -58,24 +59,22 @@
 	    </th>
 	</tr>
 	<tr>
-	    <th valign="top"><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/Isometric.svg"  width="600"/></th>
-	    <th><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.habits.svg"  width="350"/>
-		<img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.activity.svg"  width="350"/>
+	    <th valign="top" width="600"><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/Isometric.svg"  /></th>
+	    <th width="600"><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.habits.svg"  />
+		<img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.activity.svg"  />
 	    </th>
   	</tr>
 	
 <table/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-160-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 140 Contributions in the Year 2021
- > 
-> 📦 269.6 kB Used in Github's Storage 
+> 🏆 132 Contributions in the Year 2021
  > 
 > 💼 Opted to Hire
  > 
@@ -86,22 +85,22 @@
 **I'm an Early 🐤** 
 
 ```text
-🌞 Morning    39 commits     █████░░░░░░░░░░░░░░░░░░░░   20.1% 
-🌆 Daytime    79 commits     ██████████░░░░░░░░░░░░░░░   40.72% 
-🌃 Evening    69 commits     █████████░░░░░░░░░░░░░░░░   35.57% 
-🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.61%
+🌞 Morning    39 commits     █████░░░░░░░░░░░░░░░░░░░░   20.86% 
+🌆 Daytime    72 commits     █████████░░░░░░░░░░░░░░░░   38.5% 
+🌃 Evening    69 commits     █████████░░░░░░░░░░░░░░░░   36.9% 
+🌙 Night      7 commits      █░░░░░░░░░░░░░░░░░░░░░░░░   3.74%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday       49 commits     ██████░░░░░░░░░░░░░░░░░░░   25.26% 
-Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   7.73% 
-Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.76% 
-Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.79% 
-Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   16.49% 
-Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.28% 
-Sunday       44 commits     █████░░░░░░░░░░░░░░░░░░░░   22.68%
+Monday       42 commits     █████░░░░░░░░░░░░░░░░░░░░   22.46% 
+Tuesday      15 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   8.02% 
+Wednesday    17 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.09% 
+Thursday     19 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   10.16% 
+Friday       32 commits     ████░░░░░░░░░░░░░░░░░░░░░   17.11% 
+Saturday     18 commits     ██░░░░░░░░░░░░░░░░░░░░░░░   9.63% 
+Sunday       44 commits     ██████░░░░░░░░░░░░░░░░░░░   23.53%
 
 ```
 
