@@ -50,7 +50,22 @@
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-black.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
 	  
 </p>
-	  
+
+<table>
+	<tr>
+	    <th colspan="2" align="center">
+	      <a href="">🧩 Welcome</a>
+	    </th>
+	</tr>
+	<tr>
+	    <th><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/Isometric.svg"  width="600"/></th>
+	    <th><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.habits.svg"  width="300"/>
+		<img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.activity.svg"  width="300"/>
+	    </th>
+  	</tr>
+	
+<table/>
+
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
