@@ -58,7 +58,7 @@
 	    </th>
 	</tr>
 	<tr>
-	    <th align="start"><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/Isometric.svg"  width="600"/></th>
+	    <th valign="top"><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/Isometric.svg"  width="600"/></th>
 	    <th><img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.habits.svg"  width="350"/>
 		<img src="https://github.com/HugoCastroBR/HugoCastroBR/blob/master/metrics.plugin.activity.svg"  width="350"/>
 	    </th>
