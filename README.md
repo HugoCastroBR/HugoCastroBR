@@ -32,6 +32,7 @@
 	<img src="https://img.shields.io/badge/mysql-79db75.svg?style=for-the-badge&logo=mysql" alt="Mysql" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/html5-79db75.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/sass-79db75.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-React-79db75?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
 
 </p>
 
