@@ -21,6 +21,7 @@
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript-79db75.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" />&nbsp;&nbsp;
+	<img src="https://img.shields.io/badge/-React-79db75?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/node.js-79db75.svg?style=for-the-badge&" alt="NodeJS" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/express.js-79db75.svg?style=for-the-badge&" alt="ExpressJS" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/python-79db75.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" />&nbsp;&nbsp;	
@@ -30,7 +31,7 @@
 	<img src="https://img.shields.io/badge/mysql-79db75.svg?style=for-the-badge&logo=mysql" alt="Mysql" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/html5-79db75.svg?style=for-the-badge&logo=html5" alt="Html5" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/sass-79db75.svg?style=for-the-badge&logo=sass" alt="Sass" />&nbsp;&nbsp;
-	<img src="https://img.shields.io/badge/-React-79db75?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
+	
 
 </p>
 
@@ -49,7 +50,7 @@
 <table>
 	<tr>
 	    <th colspan="2" align="center">
-	      <a href="" style= "color:#79db75" text-decoration="none">🧩 Welcome</a>
+	      <a href="" >🧩 Welcome</a>
 	    </th>
 	</tr>
 	<tr>
@@ -62,9 +63,7 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-144-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
