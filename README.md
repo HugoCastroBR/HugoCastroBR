@@ -17,7 +17,7 @@
 
 <br>
 
-<h4 align="center">🚀 Some technologies, languages and frameworks <h4/>
+<h4 align="center"> Some technologies, languages and frameworks 🚀<h4/>
 	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript-79db75.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="js" />&nbsp;&nbsp;
@@ -36,12 +36,12 @@
 </p>
 
 <br>
-<h4 align="center">🔆 Highlights<h4/>
+<h4 align="center"> Highlights 🔆<h4/>
 <p align="center">
 	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-79db75.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="BadgeGenerator" />&nbsp;&nbsp;<a/>
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-79db75.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
 </p>
-<h4 align="center">🔨 Working on projects:<h4/>
+<h4 align="center"> Working on projects 🔨<h4/>
 	
 <p align="center">
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-79db75.svg?style=for-the-badge" alt="UfoNight"/>&nbsp;&nbsp;<a/>
