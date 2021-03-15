@@ -67,9 +67,11 @@ jobs:
           # ... other options
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
+          token: ${{ secrets.METRICS_TOKEN }}
       
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
         with:
           # ... other options
           plugin_lines: yes
+          token: ${{ secrets.METRICS_TOKEN }}
