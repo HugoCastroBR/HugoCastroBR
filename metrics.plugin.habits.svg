@@ -1012,7 +1012,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 19:00</li>
+              <li>Mostly push code around 14:00</li>
             
             
               <li>Mostly active on sunday</li>
@@ -1114,8 +1114,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 42.30769230769231px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">13</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               14
             </div>
           
@@ -1190,8 +1190,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">15</span>
-                <div class="bar" style="height: 28.846153846153843px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">17</span>
+                <div class="bar" style="height: 32.69230769230769px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
             
