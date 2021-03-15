@@ -18,7 +18,6 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
-          template: classic
           token: ${{ secrets.METRICS_TOKEN }}
           
       - name: 🌇 GitHub Skyline 3D calendar
@@ -69,15 +68,13 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ... other options
-          filename: Isometric.svg
+          filename: metrics.plugin.isocalendar.svg
           plugin_isocalendar: yes
-          plugin_isocalendar_duration: full-year # Display full year instead of half year
           token: ${{ secrets.METRICS_TOKEN }}
           description: isometric view of your commits calendar
+          base: ""
           type: boolean
           default: no
-
-      
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
         with:
