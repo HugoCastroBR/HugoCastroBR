@@ -54,6 +54,7 @@ jobs:
       - name: 🈷️ Most used languages
         uses: lowlighter/metrics@latest
         with:
+          filename: MostUsed.svg
           plugin_languages: yes
           plugin_languages_skipped: my-test-repo                       # List of repositories to skip
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
@@ -65,6 +66,7 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ... other options
+          filename: Isometric.svg
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           token: ${{ secrets.METRICS_TOKEN }}
@@ -73,5 +75,6 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ... other options
+          filename: LineCode.svg
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
