@@ -49,7 +49,7 @@
 <table>
 	<tr>
 	    <th colspan="2" align="center">
-	      <a href="">🧩 Welcome</a>
+	      <a href="" style= "color:#79db75" text-decoration="none">🧩 Welcome</a>
 	    </th>
 	</tr>
 	<tr>
