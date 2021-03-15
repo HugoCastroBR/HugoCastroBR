@@ -55,11 +55,14 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           filename: MostUsed.svg
+          description: Display most used languages metrics
+          type: boolean
+          default: no
           plugin_languages: yes
           plugin_languages_skipped: my-test-repo                       # List of repositories to skip
           plugin_languages_colors: "0:orange, javascript:#ff0000, ..." # Make most used languages orange and JavaScript red
           plugin_languages_details: bytes-size, percentage             # Additionally display total bytes size and percentage
-          plugin_languages_threshold: 1%   
+          plugin_languages_threshold: 0%   
           token: ${{ secrets.METRICS_TOKEN }}
       
       - name: Isometric commit calendar
@@ -70,6 +73,10 @@ jobs:
           plugin_isocalendar: yes
           plugin_isocalendar_duration: full-year # Display full year instead of half year
           token: ${{ secrets.METRICS_TOKEN }}
+          description: isometric view of your commits calendar
+          type: boolean
+          default: no
+
       
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
