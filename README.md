@@ -5,15 +5,15 @@
 
 <p align="center">
 		<a href="https://stackoverflow.com/users/11444549/hugo">
-		<img src="https://img.shields.io/badge/-Stackoverflow-4CA143?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
+		<img src="https://img.shields.io/badge/-Stackoverflow-79db75?style=for-the-badge&logo=Stackoverflow&logoColor=white" />
 	</a>
 		<a href="https://api.whatsapp.com/send?phone=5532988940411text=Oii, vim pelo github!">
-		<img src="https://img.shields.io/badge/WHATSAPP-%2325D366.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
+		<img src="https://img.shields.io/badge/WHATSAPP-ydb75.svg?&style=for-the-badge&logo=whatsapp&logoColor=white" />
 	</a>
 		<a href="mailto:hugocastrohc@outlook.com">
-		<img src="https://img.shields.io/badge/email-%238B89CC.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
+		<img src="https://img.shields.io/badge/email-ydb75.svg?&style=for-the-badge&logo=protonmail&logoColor=white" />
 	<a href="https://open.spotify.com/user/22uat6ppbmvcvyia5me7tdmci">
-		<img src="https://img.shields.io/badge/spotify-%231ED760.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
+		<img src="https://img.shields.io/badge/spotify-ydb75.svg?&style=for-the-badge&logo=spotify&logoColor=white" />
 	</a>
 </p>
 
