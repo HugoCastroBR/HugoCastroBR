@@ -50,7 +50,7 @@
 <table>
 	<tr>
 	    <th colspan="2" align="center">
-	      <a href="" >🧩 Welcome</a>
+	      <a href="" >🧩 Statistics 📊 </a>
 	    </th>
 	</tr>
 	<tr>
