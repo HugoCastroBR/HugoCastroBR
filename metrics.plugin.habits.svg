@@ -1108,8 +1108,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">10</span>
-              <div class="bar" style="height: 25px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">9</span>
+              <div class="bar" style="height: 22.5px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               13
             </div>
           
@@ -1132,8 +1132,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 27.500000000000004px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">12</span>
+              <div class="bar" style="height: 30px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               17
             </div>
           
@@ -1184,8 +1184,8 @@
           <div class="chart-bars">
             
               <div class="entry">
-                <span class="value">21</span>
-                <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">20</span>
+                <div class="bar" style="height: 17.857142857142858px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sun
               </div>
             
@@ -1196,8 +1196,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">22</span>
-                <div class="bar" style="height: 19.642857142857142px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">23</span>
+                <div class="bar" style="height: 20.535714285714285px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
             
