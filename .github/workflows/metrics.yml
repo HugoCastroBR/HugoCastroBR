@@ -71,7 +71,7 @@ jobs:
           filename: Isometric.svg
           plugin_isocalendar: yes
           token: ${{ secrets.METRICS_TOKEN }}
-
+          plugin_isocalendar_duration: full-year
           default: no
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
