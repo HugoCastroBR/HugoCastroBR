@@ -68,12 +68,10 @@ jobs:
         uses: lowlighter/metrics@latest
         with:
           # ... other options
-          filename: metrics.plugin.isocalendar.svg
+          filename: Isometric.svg
           plugin_isocalendar: yes
           token: ${{ secrets.METRICS_TOKEN }}
-          description: isometric view of your commits calendar
-          base: ""
-          type: boolean
+
           default: no
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
