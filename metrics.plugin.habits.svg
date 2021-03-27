@@ -1049,7 +1049,7 @@
               <li>Use spaces for indents</li>
             
             
-              <li>Mostly push code around 18:00</li>
+              <li>Mostly push code around 12:00</li>
             
             
               <li>Mostly active on thursday</li>
@@ -1139,8 +1139,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 42.857142857142854px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               12
             </div>
           
@@ -1151,8 +1151,8 @@
             </div>
           
             <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 28.57142857142857px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">3</span>
+              <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               14
             </div>
           
@@ -1233,8 +1233,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">12</span>
-                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">11</span>
+                <div class="bar" style="height: 20.37037037037037px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Tue
               </div>
             
@@ -1257,8 +1257,8 @@
               </div>
             
               <div class="entry">
-                <span class="value">11</span>
-                <div class="bar" style="height: 20.37037037037037px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">12</span>
+                <div class="bar" style="height: 22.22222222222222px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Sat
               </div>
             
