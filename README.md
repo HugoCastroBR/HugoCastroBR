@@ -62,11 +62,11 @@
 <!--START_SECTION:waka-->
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-321-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-68%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-70%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 187 Contributions in the Year 2021
+> 🏆 188 Contributions in the Year 2021
  > 
 > 📦 553.4 kB Used in Github's Storage 
  > 
@@ -120,10 +120,10 @@ Windows                  6 hrs 12 mins       ███████████�
 **I Mostly Code in Python** 
 
 ```text
-Python                   8 repos             █████████░░░░░░░░░░░░░░░░   38.1% 
-JavaScript               5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-HTML                     5 repos             ██████░░░░░░░░░░░░░░░░░░░   23.81% 
-CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.29%
+Python                   8 repos             █████████░░░░░░░░░░░░░░░░   36.36% 
+JavaScript               6 repos             ██████░░░░░░░░░░░░░░░░░░░   27.27% 
+HTML                     5 repos             █████░░░░░░░░░░░░░░░░░░░░   22.73% 
+CSS                      3 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.64%
 
 ```
 
