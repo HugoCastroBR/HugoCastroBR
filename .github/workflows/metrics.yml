@@ -2,8 +2,7 @@
 
 name: Metrics
 on:
-
-  # att updates every 03:00
+  #  updates every 03:00
   schedule: [{cron: "0 3 * * *"}]
   # Lines below let you run workflow manually and on each commit (optional)
   workflow_dispatch:
