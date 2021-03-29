@@ -18,7 +18,6 @@
 <br>
 
 <h4 align="center"> Some technologies, languages and frameworks 🚀<h4/>
-	
 <p align="center">
 	<img src="https://img.shields.io/badge/javascript-79db75.svg?&style=for-the-badge&logo=javascript&logoColor=white" alt="js" />&nbsp;&nbsp;
 	<img src="https://img.shields.io/badge/-React-79db75?style=for-the-badge&logo=react&logoColor=white" alt="React" />&nbsp;&nbsp;
