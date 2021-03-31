@@ -72,7 +72,6 @@ jobs:
       - name:  Lines of code changed
         uses: lowlighter/metrics@latest
         with:
-          # ... other options
           filename: LineCode.svg
           plugin_lines: yes
           token: ${{ secrets.METRICS_TOKEN }}
