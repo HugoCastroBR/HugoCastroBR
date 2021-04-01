@@ -1175,19 +1175,19 @@
         </mask>
         <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
         
-          <rect mask="url(#languages-bar)" x="0" y="0" width="432.73294671646846" height="8" fill="orange"/>
+          <rect mask="url(#languages-bar)" x="0" y="0" width="432.6708673798979" height="8" fill="orange"/>
         
-          <rect mask="url(#languages-bar)" x="432.73294671646846" y="0" width="10.319933247697188" height="8" fill="#e34c26"/>
+          <rect mask="url(#languages-bar)" x="432.6708673798979" y="0" width="10.318452762759927" height="8" fill="#e34c26"/>
         
-          <rect mask="url(#languages-bar)" x="443.05287996416564" y="0" width="6.893504314466185" height="8" fill="#ff0000"/>
+          <rect mask="url(#languages-bar)" x="442.98932014265785" y="0" width="6.958506415326321" height="8" fill="#ff0000"/>
         
-          <rect mask="url(#languages-bar)" x="449.9463842786318" y="0" width="5.160799542865073" height="8" fill="#563d7c"/>
+          <rect mask="url(#languages-bar)" x="449.9478265579842" y="0" width="5.160059180906905" height="8" fill="#563d7c"/>
         
-          <rect mask="url(#languages-bar)" x="455.10718382149685" y="0" width="3.9418059038676017" height="8" fill="#c6538c"/>
+          <rect mask="url(#languages-bar)" x="455.10788573889107" y="0" width="3.9412404172383564" height="8" fill="#c6538c"/>
         
-          <rect mask="url(#languages-bar)" x="459.04898972536444" y="0" width="0.885509523179575" height="8" fill="#012456"/>
+          <rect mask="url(#languages-bar)" x="459.04912615612943" y="0" width="0.8853824890719503" height="8" fill="#012456"/>
         
-          <rect mask="url(#languages-bar)" x="459.934499248544" y="0" width="0.06550075145591529" height="8" fill="#C1F12E"/>
+          <rect mask="url(#languages-bar)" x="459.9345086452014" y="0" width="0.06549135479863251" height="8" fill="#C1F12E"/>
         
       </svg>
       
@@ -1202,7 +1202,7 @@
                   </div>
                   <small>
                      <div>25.9 MB</div>
-                     <div>94.07%</div>
+                     <div>94.06%</div>
                   </small>
                 </div>
               
@@ -1212,8 +1212,8 @@
                     JavaScript
                   </div>
                   <small>
-                     <div>413 kB</div>
-                     <div>1.5%</div>
+                     <div>417 kB</div>
+                     <div>1.51%</div>
                   </small>
                 </div>
               
@@ -1336,7 +1336,7 @@
           
             <span>These metrics include private contributions</span>
           
-          <span>Last updated Thu, 01 Apr 2021 18:28:33 GMT with lowlighter/metrics@3.5.0</span>
+          <span>Last updated Thu, 01 Apr 2021 19:04:55 GMT with lowlighter/metrics@3.5.0</span>
         </footer>
       
       <div id="metrics-end"></div>
