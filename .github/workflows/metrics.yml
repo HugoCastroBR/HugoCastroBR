@@ -63,7 +63,7 @@ jobs:
       - name: Isometric commit calendar
         uses: lowlighter/metrics@latest
         with:
-          # ... other options
+
           filename: Isometric.svg
           plugin_isocalendar: yes
           token: ${{ secrets.METRICS_TOKEN }}
