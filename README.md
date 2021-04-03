@@ -41,6 +41,7 @@
 	
 <p align="center">
 	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-79db75.svg?style=for-the-badge" alt="UfoNight"/>&nbsp;&nbsp;<a/>
+		<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/Instagram%20Clone-79db75.svg?style=for-the-badge" alt="Instagram clone"/>&nbsp;&nbsp;<a/>
 </p>
 
 <table>
