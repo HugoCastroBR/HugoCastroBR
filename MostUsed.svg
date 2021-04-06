@@ -1080,7 +1080,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        363 Commits
+                        364 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1221,13 +1221,13 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.1746387137053" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="432.1746387137053" y="0" width="10.391267051634607" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="442.5659057653399" y="0" width="7.341792057564211" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="449.9076978229041" y="0" width="5.172508251715534" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="455.08020607461964" y="0" width="3.9700106353113895" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="459.0502167099311" y="0" width="0.8843670470703128" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.93458375700135" y="0" width="0.06541624299867317" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="432.08660990665896" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="432.08660990665896" y="0" width="10.389150474768881" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="442.4757603814278" y="0" width="7.433993122771315" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="449.9097535041991" y="0" width="5.171454673624532" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="455.08120817782367" y="0" width="3.9692019916084" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="459.0504101694321" y="0" width="0.8841869120758661" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.93459708150795" y="0" width="0.0654029184920576" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1243,7 +1243,7 @@
                                     25.9 MB
                                 </div>
                                 <div>
-                                    93.95%
+                                    93.93%
                                 </div>
                             </small>
                         </div>
@@ -1256,10 +1256,10 @@
                             </div>
                             <small>
                                 <div>
-                                    441 kB
+                                    446 kB
                                 </div>
                                 <div>
-                                    1.6%
+                                    1.62%
                                 </div>
                             </small>
                         </div>
@@ -1353,7 +1353,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Tue, 06 Apr 2021 19:18:26 GMT with lowlighter/metrics@3.6.0
+                    Last updated Tue, 06 Apr 2021 19:40:25 GMT with lowlighter/metrics@3.6.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
