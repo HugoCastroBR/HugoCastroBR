@@ -1098,9 +1098,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            2
+                            3
                         </span>
-                        <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                        <div class="bar" style="height: 18.75px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                         04
                     </div>
                     <div class="entry">
@@ -1267,9 +1267,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                4
+                                5
                             </span>
-                            <div class="bar" style="height: 7.6923076923076925px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 9.615384615384617px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Wed
                         </div>
                         <div class="entry">
