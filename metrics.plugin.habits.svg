@@ -1055,7 +1055,7 @@
                             Use spaces for indents
                         </li>
                         <li>
-                            Mostly push code around 19:00
+                            Mostly push code around 14:00
                         </li>
                         <li>
                             Mostly active on thursday
@@ -1168,9 +1168,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            8
+                            9
                         </span>
-                        <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         14
                     </div>
                     <div class="entry">
@@ -1203,9 +1203,9 @@
                     </div>
                     <div class="entry">
                         <span class="value">
-                            9
+                            8
                         </span>
-                        <div class="bar" style="height: 50px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                        <div class="bar" style="height: 44.44444444444444px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                         19
                     </div>
                     <div class="entry">
@@ -1251,9 +1251,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                5
+                                4
                             </span>
-                            <div class="bar" style="height: 8.928571428571429px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="height: 7.142857142857142px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -1279,9 +1279,9 @@
                         </div>
                         <div class="entry">
                             <span class="value">
-                                12
+                                13
                             </span>
-                            <div class="bar" style="height: 21.428571428571427px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <div class="bar" style="height: 23.214285714285715px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Fri
                         </div>
                         <div class="entry">
