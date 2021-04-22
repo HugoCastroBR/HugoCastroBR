@@ -1110,7 +1110,7 @@
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                             <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                         </svg>
-                        383 Commits
+                        384 Commits
                     </div>
                     <div class="field">
                         <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
@@ -1251,14 +1251,14 @@
                         <rect x="0" y="0" width="460" height="8" fill="white" rx="5"/>
                     </mask>
                     <rect mask="url(#languages-bar)" x="0" y="0" width="0" height="8" fill="#d1d5da"/>
-                    <rect mask="url(#languages-bar)" x="0" y="0" width="431.04271010651826" height="8" fill="orange"/>
-                    <rect mask="url(#languages-bar)" x="431.04271010651826" y="0" width="10.478279172397672" height="8" fill="#e34c26"/>
-                    <rect mask="url(#languages-bar)" x="441.52098927891586" y="0" width="7.4989995314192575" height="8" fill="#ff0000"/>
-                    <rect mask="url(#languages-bar)" x="449.0199888103352" y="0" width="5.216406746841228" height="8" fill="#563d7c"/>
-                    <rect mask="url(#languages-bar)" x="454.23639555717637" y="0" width="3.9596125966335056" height="8" fill="#c6538c"/>
-                    <rect mask="url(#languages-bar)" x="458.1960081538099" y="0" width="0.8820507603885865" height="8" fill="#012456"/>
-                    <rect mask="url(#languages-bar)" x="459.07805891419844" y="0" width="0.8566961775138239" height="8" fill="#2b7489"/>
-                    <rect mask="url(#languages-bar)" x="459.9347550917123" y="0" width="0.06524490828767467" height="8" fill="#C1F12E"/>
+                    <rect mask="url(#languages-bar)" x="0" y="0" width="430.98532729614305" height="8" fill="orange"/>
+                    <rect mask="url(#languages-bar)" x="430.98532729614305" y="0" width="10.476884245415473" height="8" fill="#e34c26"/>
+                    <rect mask="url(#languages-bar)" x="441.46221154155853" y="0" width="7.498001222764395" height="8" fill="#ff0000"/>
+                    <rect mask="url(#languages-bar)" x="448.9602127643229" y="0" width="5.215712309672531" height="8" fill="#563d7c"/>
+                    <rect mask="url(#languages-bar)" x="454.1759250739954" y="0" width="3.959085470913792" height="8" fill="#c6538c"/>
+                    <rect mask="url(#languages-bar)" x="458.1350105449092" y="0" width="0.9178198956989402" height="8" fill="#2b7489"/>
+                    <rect mask="url(#languages-bar)" x="459.05283044060815" y="0" width="0.8819333368703643" height="8" fill="#012456"/>
+                    <rect mask="url(#languages-bar)" x="459.9347637774785" y="0" width="0.06523622252147926" height="8" fill="#C1F12E"/>
                 </svg>
                 <div class="row fill-width">
                     <section>
@@ -1274,7 +1274,7 @@
                                     25.9 MB
                                 </div>
                                 <div>
-                                    93.7%
+                                    93.69%
                                 </div>
                             </small>
                         </div>
@@ -1313,13 +1313,13 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                TypeScript
+                                PowerShell
                             </div>
                             <small>
                                 <div>
-                                    51.6 kB
+                                    53.1 kB
                                 </div>
                                 <div>
                                     0.19%
@@ -1363,16 +1363,16 @@
                         <div class="field language details">
                             <div class="field">
                                 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                    <path fill="#012456" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
+                                    <path fill="#2b7489" fill-rule="evenodd" d="M8 4a4 4 0 100 8 4 4 0 000-8z"/>
                                 </svg>
-                                PowerShell
+                                TypeScript
                             </div>
                             <small>
                                 <div>
-                                    53.1 kB
+                                    55.3 kB
                                 </div>
                                 <div>
-                                    0.19%
+                                    0.2%
                                 </div>
                             </small>
                         </div>
@@ -1400,7 +1400,7 @@
                     These metrics include private contributions
                 </span>
                 <span>
-                    Last updated Thu, 22 Apr 2021 14:32:19 GMT with lowlighter/metrics@3.7.0
+                    Last updated Thu, 22 Apr 2021 14:50:30 GMT with lowlighter/metrics@3.7.0
                 </span>
             </footer>
             <div id="metrics-end"></div>
