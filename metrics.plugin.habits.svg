@@ -1129,8 +1129,8 @@
               02
             </div>
                     <div class="entry">
-              <span class="value">7</span>
-              <div class="bar" style="height: 35px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+              <span class="value">8</span>
+              <div class="bar" style="height: 40px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               03
             </div>
                     <div class="entry">
@@ -1144,8 +1144,8 @@
               05
             </div>
                     <div class="entry">
-              <span class="value">2</span>
-              <div class="bar" style="height: 10px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">1</span>
+              <div class="bar" style="height: 5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
               06
             </div>
                     <div class="entry">
@@ -1245,8 +1245,8 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">18</span>
-                <div class="bar" style="height: 33.33333333333333px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                <span class="value">17</span>
+                <div class="bar" style="height: 31.48148148148148px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
@@ -1270,8 +1270,8 @@
                 Fri
               </div>
                         <div class="entry">
-                <span class="value">2</span>
-                <div class="bar" style="height: 3.7037037037037033px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                <span class="value">3</span>
+                <div class="bar" style="height: 5.555555555555555px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                 Sat
               </div>
                     </div>
