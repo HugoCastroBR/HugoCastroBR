@@ -1,5 +1,4 @@
 <h1 align="center">Hugo Castro 👽💻🌌</h1>
-<h5 align="center">A beginner web developer !</h5>
 <h4 align="center">A developer who loves to learn and create new things. Keeping the good mood and the good code!<h4/>
 <p align="center">
 		<a href="https://stackoverflow.com/users/11444549/hugo">
