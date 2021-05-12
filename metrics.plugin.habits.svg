@@ -1112,8 +1112,8 @@
                 <h3>Commit activity per time of the day</h3>
                 <div class="chart-bars">
                     <div class="entry">
-              <span class="value">4</span>
-              <div class="bar" style="height: 12.5px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+              <span class="value">5</span>
+              <div class="bar" style="height: 15.625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
               00
             </div>
                     <div class="entry">
@@ -1253,8 +1253,8 @@
                 Tue
               </div>
                         <div class="entry">
-                <span class="value">23</span>
-                <div class="bar" style="height: 20.909090909090907px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">24</span>
+                <div class="bar" style="height: 21.818181818181817px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Wed
               </div>
                         <div class="entry">
