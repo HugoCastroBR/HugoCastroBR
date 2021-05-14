@@ -1248,8 +1248,8 @@
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">41</span>
-                <div class="bar" style="height: 46.590909090909086px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">39</span>
+                <div class="bar" style="height: 44.31818181818182px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
@@ -1263,8 +1263,8 @@
                 Thu
               </div>
                         <div class="entry">
-                <span class="value">35</span>
-                <div class="bar" style="height: 39.77272727272727px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">37</span>
+                <div class="bar" style="height: 42.04545454545455px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Fri
               </div>
                         <div class="entry">
@@ -1278,29 +1278,29 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 32.727999999999994%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">41%</span>
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 34%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">43%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 26.944%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">34%</span>
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 21.471999999999998%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">27%</span>
                         </div>
                         <div class="entry">
                             <span class="name">CSS</span>
-                            <div class="bar" style="width: 7.52%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 9.072%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">11%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 7.256%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">9%</span>
+                            <div class="bar" style="width: 8.751999999999999%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">11%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 5.5520000000000005%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">7%</span>
+                            <div class="bar" style="width: 6.696%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">8%</span>
                         </div>
                     </div>
                 </section>
