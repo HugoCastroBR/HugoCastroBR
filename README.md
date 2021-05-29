@@ -67,7 +67,7 @@
 
 > 🏆 327 Contributions in the Year 2021
  > 
-> 📦 782.6 kB Used in Github's Storage 
+> 📦 782.9 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
