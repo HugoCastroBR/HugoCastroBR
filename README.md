@@ -67,7 +67,7 @@
 
 > 🏆 355 Contributions in the Year 2021
  > 
-> 📦 794.0 kB Used in Github's Storage 
+> 📦 794.3 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,7 +129,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 13/06/2021
+ Last Updated on 14/06/2021
 <!--END_SECTION:waka-->
 
 
