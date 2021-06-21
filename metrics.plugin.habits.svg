@@ -1235,8 +1235,8 @@
               05
             </div>
                     <div class="entry">
-              <span class="value">6</span>
-              <div class="bar" style="height: 23.076923076923077px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+              <span class="value">7</span>
+              <div class="bar" style="height: 26.923076923076923px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
               06
             </div>
                     <div class="entry">
@@ -1255,8 +1255,8 @@
               09
             </div>
                     <div class="entry">
-              <span class="value">11</span>
-              <div class="bar" style="height: 42.30769230769231px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+              <span class="value">10</span>
+              <div class="bar" style="height: 38.46153846153847px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
               10
             </div>
                     <div class="entry">
@@ -1336,13 +1336,13 @@
                 Sun
               </div>
                         <div class="entry">
-                <span class="value">21</span>
-                <div class="bar" style="height: 23.333333333333332px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                <span class="value">22</span>
+                <div class="bar" style="height: 24.444444444444443px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                 Mon
               </div>
                         <div class="entry">
-                <span class="value">38</span>
-                <div class="bar" style="height: 42.22222222222222px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                <span class="value">37</span>
+                <div class="bar" style="height: 41.11111111111111px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                 Tue
               </div>
                         <div class="entry">
