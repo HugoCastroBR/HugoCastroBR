@@ -1371,33 +1371,33 @@
                     <h3>Language activity</h3>
                     <div class="chart-bars horizontal">
                         <div class="entry">
-                            <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 38.168281339044434%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="name">TypeScript</span>
+                            <div class="bar" style="width: 38.347594074891894%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             <span class="value">48%</span>
                         </div>
                         <div class="entry">
-                            <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 38.13592661360001%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
-                            <span class="value">48%</span>
+                            <span class="name">JavaScript</span>
+                            <div class="bar" style="width: 37.95307756003312%; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">47%</span>
                         </div>
                         <div class="entry">
                             <span class="name">SCSS</span>
-                            <div class="bar" style="width: 2.9589867088258544%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 2.961818014536756%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">4%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Shell</span>
-                            <div class="bar" style="width: 0.3456072945199184%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.3459379887754163%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">Dockerfile</span>
-                            <div class="bar" style="width: 0.34266595584315307%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.34299383567945535%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                         <div class="entry">
                             <span class="name">HTML</span>
-                            <div class="bar" style="width: 0.04853208816662684%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <div class="bar" style="width: 0.04857852608335634%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                             <span class="value">0%</span>
                         </div>
                     </div>
