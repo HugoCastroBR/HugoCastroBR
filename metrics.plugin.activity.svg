@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="621" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
     <defs>
         <style/>
     </defs>
@@ -1321,6 +1321,25 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#fc8ed64</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#0faf407</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1418,51 +1437,6 @@
                                     <div class="commit">
                                         <span class="sha">#8bc9a7e</span>
                                         <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 7 commits in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e802893</span>
-                                        <span class="message">Merge pull request #15 from lubysoftware/fix/detailsAndRichText
-
-Fix/details and rich text</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#104b8c2</span>
-                                        <span class="message">feat: user avatar, select style and dashboard</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#428b25f</span>
-                                        <span class="message">fix: fixing things and testing</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9f6985c</span>
-                                        <span class="message">feat: starting dashboard design</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9bf354b</span>
-                                        <span class="message">feat: added more tools to the rich text editor</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d2e0bdd</span>
-                                        <span class="message">feat: added functional rich text editor</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#74102d4</span>
-                                        <span class="message">fix: fixing user city selector</span>
                                     </div>
                                 </div>
                             </section>
