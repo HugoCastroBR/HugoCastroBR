@@ -59,7 +59,7 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295840%20lines%20of%20code-blue)
 
@@ -67,7 +67,7 @@
 
 > 🏆 439 Contributions in the Year 2021
  > 
-> 📦 799.6 kB Used in Github's Storage 
+> 📦 799.7 kB Used in Github's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -102,15 +102,14 @@ Sunday       42 commits     ██░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-JavaScript               11 hrs 54 mins      ████████████████████████░   95.94% 
-Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   4.06% 
-LESS                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
+JavaScript               12 hrs 24 mins      ████████████████████████░   96.1% 
+Python                   30 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   3.9%
 
 🔥 Editors: 
-VS Code                  12 hrs 25 mins      █████████████████████████   100.0%
+VS Code                  12 hrs 55 mins      █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  12 hrs 25 mins      █████████████████████████   100.0%
+Windows                  12 hrs 55 mins      █████████████████████████   100.0%
 
 ```
 
@@ -127,7 +126,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2021
+ Last Updated on 21/09/2021
 <!--END_SECTION:waka-->
 
 
