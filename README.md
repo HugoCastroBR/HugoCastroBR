@@ -34,7 +34,7 @@
 <h4 align="center"> Highlights 🔆<h4/>
 <p align="center">
 	  <a text-decoration="none" href="https://pypi.org/project/BadgeGenerator"><img src="https://img.shields.io/badge/BadgeGenerator-79db75.svg?style=for-the-badge&logo=pythonfor-the-badge&logo=django" alt="BadgeGenerator" />&nbsp;&nbsp;<a/>
-	<a text-decoration="none" href="https://github.com/HugoCastroBR/Neumorphism_Portfolio"><img src="https://img.shields.io/badge/neumorphism_portfolio-79db75.svg?style=for-the-badge" alt="NEUMORPHISM PORTFOLIO" />&nbsp;&nbsp;<a/>
+	<a text-decoration="none" href="https://www.npmjs.com/package/cra-template-typescript-redux-react"><img src="https://img.shields.io/badge/neumorphism_portfolio-79db75.svg?style=for-the-badge" alt="TEMPLATE REACT TYPESCRIPT REDUX" />&nbsp;&nbsp;<a/>
 </p>
 <h4 align="center"> Working on projects 🔨<h4/>
 	
