@@ -39,8 +39,7 @@
 <h4 align="center"> Working on projects 🔨<h4/>
 	
 <p align="center">
-	<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/UfoNight-79db75.svg?style=for-the-badge" alt="UfoNight"/>&nbsp;&nbsp;<a/>
-		<a text-decoration="none" href="https://github.com/HugoCastroBR/ufonight"><img src="https://img.shields.io/badge/Instagram%20Clone-79db75.svg?style=for-the-badge" alt="Instagram clone"/>&nbsp;&nbsp;<a/>
+		<a text-decoration="none" href="https://www.npmjs.com/package/cra-template-typescript-redux-react"><img src="https://img.shields.io/badge/template%20React%20typescript%20redux-79db75.svg?style=for-the-badge" alt="TEMPLATE-REACT TYPESCRIPT REDUX" />&nbsp;&nbsp;<a/>
 </p>
 
 <table>
