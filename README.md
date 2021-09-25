@@ -58,7 +58,7 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-295840%20lines%20of%20code-blue)
 
@@ -66,7 +66,7 @@
 
 > 🏆 447 Contributions in the Year 2021
  > 
-> 📦 812.5 kB Used in GitHub's Storage 
+> 📦 812.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -125,7 +125,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 24/09/2021
+ Last Updated on 25/09/2021
 <!--END_SECTION:waka-->
 
 
