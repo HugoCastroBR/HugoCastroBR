@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="676" class="">
     <defs>
         <style/>
     </defs>
@@ -1352,6 +1352,122 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#727ceca</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/fixingThings</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#968fdfb</span>
+                                        <span class="message">feat: Refactoring and testing</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 5 commits in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/fixingThings</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2ed7374</span>
+                                        <span class="message">feat: Added Category When add or edit an Offer</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#c315930</span>
+                                        <span class="message">fix: axios and erros handler improvement</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e162eef</span>
+                                        <span class="message">fix: tables and data</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#76697e6</span>
+                                        <span class="message">fix: Select functions and styles</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#632c0f3</span>
+                                        <span class="message">feat: Added Retry Refresh Token</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 7 commits in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">fix/fixingThings</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#d7c709b</span>
+                                        <span class="message">feat: starting refresh token features</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0da9516</span>
+                                        <span class="message">feat: edit form and delete function added to Category Group</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#05806bd</span>
+                                        <span class="message">feat: added form to add a new Category Group</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#36478f6</span>
+                                        <span class="message">feat: starting Offers Category Groups</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3be56ae</span>
+                                        <span class="message">feat: added offers Category Edit Form and Delete Option</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0587df3</span>
+                                        <span class="message">feat: added offers Category Add Option</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ae8ec74</span>
+                                        <span class="message">fix: fixing errors when load accounf fails</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#631a50c</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1391,82 +1507,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <span class="sha">#db69a9d</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">fix/fixingThings</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#91ec630</span>
-                                        <span class="message">feat: tested and started offers category</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#74e12cf</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0a759a8</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#af32d31</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
                                 </div>
