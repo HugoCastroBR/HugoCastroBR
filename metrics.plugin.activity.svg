@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="551" class="">
     <defs>
         <style/>
     </defs>
@@ -1352,6 +1352,56 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#3cb8868</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 4 commits in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/translation</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6725bb6</span>
+                                        <span class="message">feat: term translation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8fad4fe</span>
+                                        <span class="message">feat: user translation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8b4fc27</span>
+                                        <span class="message">feat: starting user translation</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#329d95f</span>
+                                        <span class="message">feat: Selectors translation</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#c3dcad8</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1430,44 +1480,6 @@
                                     <div class="commit">
                                         <span class="sha">#a603125</span>
                                         <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5e1ca29</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/translation</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#7f08920</span>
-                                        <span class="message">feat: translate crud base</span>
                                     </div>
                                 </div>
                             </section>
