@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="835" class="">
     <defs>
         <style/>
     </defs>
@@ -1352,6 +1352,120 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#2e46570</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 36 commits in <span class="repo">lubysoftware/PINGUIM.NEW-APP</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">HC/terms</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6371792</span>
+                                        <span class="message">docs: add README md</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#99b4aa4</span>
+                                        <span class="message">fix: yup change</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#40280f7</span>
+                                        <span class="message">fix: adjusting pr changes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cc13c8a</span>
+                                        <span class="message">fix: google modification</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#62ec6de</span>
+                                        <span class="message">fix: finishing login</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5a5acc8</span>
+                                        <span class="message">fix: finishing integration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1b59944</span>
+                                        <span class="message">fix: changing some sagas</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#accf0a1</span>
+                                        <span class="message">fix: facebook android fixes</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b3a2aab</span>
+                                        <span class="message">Merge branch 'main' into GN/SocialNetwork</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f638dd2</span>
+                                        <span class="message">fix: social network email verification</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f561f4a</span>
+                                        <span class="message">fix: continuing social network integration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fd379e8</span>
+                                        <span class="message">feat: add social network init intergration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b4f0e62</span>
+                                        <span class="message">feat: add social media login</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#5ffeec6</span>
+                                        <span class="message">fix: saving</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ccf0ba5</span>
+                                        <span class="message">fix: fixing some problems</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#dd79cfc</span>
+                                        <span class="message">fix: saving pull</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4e5a269</span>
+                                        <span class="message">fix: init login</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0c44412</span>
+                                        <span class="message">fix: fixing register</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#9b64e1a</span>
+                                        <span class="message">fix: continuing integration</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7a4b1c7</span>
+                                        <span class="message">feat: init integration for register</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#bf3c2ae</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1429,44 +1543,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <span class="sha">#7e6d33e</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3275d90</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#e32fde4</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
                                 </div>
