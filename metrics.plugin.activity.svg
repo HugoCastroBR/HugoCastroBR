@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="835" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="923" class="">
     <defs>
         <style/>
     </defs>
@@ -1352,6 +1352,81 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#8e946c6</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">lubysoftware/PINGUIM.NEW-APP</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">HC/terms</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#1ccd5fa</span>
+                                        <span class="message">fix: fixing conflits end</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 5 commits in <span class="repo">lubysoftware/PINGUIM.NEW-APP</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">HC/terms</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#1b23d4b</span>
+                                        <span class="message">feat: merge</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e06515a</span>
+                                        <span class="message">feat: pre merge</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8e3d3fa</span>
+                                        <span class="message">fix: fixing things</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#4ae01b8</span>
+                                        <span class="message">Merge pull request #20 from lubysoftware/LG/TravelAlone
+
+fix: axios interceptor remove login and redux persist only to user an…</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7b16544</span>
+                                        <span class="message">fix: axios interceptor remove login and redux persist only to user and token</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#fa23f7a</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1487,63 +1562,6 @@
                                     <div class="commit">
                                         <span class="sha">#7a4b1c7</span>
                                         <span class="message">feat: init integration for register</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#bf3c2ae</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3c835d9</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                      Pushed 1 commit in <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#a30ae63</span>
-                                        <span class="message">Updated with Dev Metrics</span>
                                     </div>
                                 </div>
                             </section>
