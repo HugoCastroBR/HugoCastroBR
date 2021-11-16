@@ -66,7 +66,7 @@
 
 > 🏆 529 Contributions in the Year 2021
  > 
-> 📦 810.6 kB Used in GitHub's Storage 
+> 📦 810.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
