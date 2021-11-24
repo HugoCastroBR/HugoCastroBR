@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="692" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
     <defs>
         <style/>
     </defs>
@@ -1416,6 +1416,26 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#e84cd87</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#a53a8fd</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
@@ -1518,74 +1538,6 @@
                                     <div class="commit">
                                         <span class="sha">#4c42146</span>
                                         <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 11 commits in
-                                        <span class="repo">lubysoftware/PINGUIM.NEST</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#5b21fd3</span>
-                                        <span class="message">Merge pull request #171 from lubysoftware/develop
-
-Develop</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ade2ffe</span>
-                                        <span class="message">Merge pull request #170 from lubysoftware/fix/facebookLogin
-
-fix 500 error facebook login</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d8a6e1b</span>
-                                        <span class="message">Merge pull request #169 from lubysoftware/fix/newLoginResponse
-
-correçao no retorno do login do usuario, adicionando dados do usuario…</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e18de3c</span>
-                                        <span class="message">Merge branch 'develop' into fix/newLoginResponse</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d4ae31f</span>
-                                        <span class="message">Merge pull request #168 from lubysoftware/fix/WishListAndMore
-
-Fix/wish list and more</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f8cd7c6</span>
-                                        <span class="message">fix 500 error facebook login</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#aba086b</span>
-                                        <span class="message">Ajustando o Readme.</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#20adf13</span>
-                                        <span class="message">correçao no retorno do login do usuario, adicionando dados do usuario, isMissingData e needTerm</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#abac6b5</span>
-                                        <span class="message">corrigindo retorno do wishlist</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8e242ad</span>
-                                        <span class="message">wishlisted na listagem de wishlists por id de usuario</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#9b5c18a</span>
-                                        <span class="message">feat: doing</span>
                                     </div>
                                 </div>
                             </section>
