@@ -16,7 +16,7 @@
                 <div class="row">
                     <ul class="habits">
                         <li>Uses spaces for indentation</li>
-                        <li>Has approximately 38.5 characters per line of code written</li>
+                        <li>Has approximately 38.0 characters per line of code written</li>
                         <li>Mostly pushes code around 00:00</li>
                         <li>Mostly active on Wednesday</li>
                     </ul>
@@ -56,8 +56,8 @@
                         05
                     </div>
                     <div class="entry">
-                        <span class="value">4</span>
-                        <div class="bar" style="height: 15.384615384615385px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                        <span class="value">3</span>
+                        <div class="bar" style="height: 11.538461538461538px; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
                         06
                     </div>
                     <div class="entry">
@@ -136,8 +136,8 @@
                         21
                     </div>
                     <div class="entry">
-                        <span class="value">8</span>
-                        <div class="bar" style="height: 30.76923076923077px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
+                        <span class="value">9</span>
+                        <div class="bar" style="height: 34.61538461538461px; background-color: var(--color-calendar-graph-day-L3-bg)"></div>
                         22
                     </div>
                     <div class="entry">
@@ -157,8 +157,8 @@
                             Sun
                         </div>
                         <div class="entry">
-                            <span class="value">26</span>
-                            <div class="bar" style="height: 40.625px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">28</span>
+                            <div class="bar" style="height: 43.75px; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
                             Mon
                         </div>
                         <div class="entry">
@@ -182,8 +182,8 @@
                             Fri
                         </div>
                         <div class="entry">
-                            <span class="value">11</span>
-                            <div class="bar" style="height: 17.1875px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
+                            <span class="value">9</span>
+                            <div class="bar" style="height: 14.0625px; background-color: var(--color-calendar-graph-day-L2-bg)"></div>
                             Sat
                         </div>
                     </div>
@@ -193,13 +193,13 @@
                     <div class="chart-bars horizontal">
                         <div class="entry">
                             <span class="name">JavaScript</span>
-                            <div class="bar" style="width: 76.28460907279334%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
-                            <span class="value">95%</span>
+                            <div class="bar" style="width: 75.04827370723325%; background-color: var(--color-calendar-graph-day-L4-bg)"></div>
+                            <span class="value">94%</span>
                         </div>
                         <div class="entry">
                             <span class="name">TypeScript</span>
-                            <div class="bar" style="width: 3.7153909272066583%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
-                            <span class="value">5%</span>
+                            <div class="bar" style="width: 4.951726292766756%; background-color: var(--color-calendar-graph-day-L1-bg)"></div>
+                            <span class="value">6%</span>
                         </div>
                     </div>
                 </section>
