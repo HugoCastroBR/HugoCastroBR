@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="620" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="497" class="">
     <defs>
         <style/>
     </defs>
@@ -14,6 +14,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#6813965</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -128,52 +148,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span></div>
                                     <div>7 files changed <span class="code">++142 --53</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 7 commits in
-                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/positionCategoryOffers</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#0968924</span>
-                                        <span class="message">fix: merge conflicts</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#4a74ac5</span>
-                                        <span class="message">Merge pull request #54 from lubysoftware/fix/DashboardAndCount
-
-Fix/dashboard and count</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d1435a9</span>
-                                        <span class="message">feat: done lat and lon</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e7b7bfb</span>
-                                        <span class="message">fix: fixing search</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8d0de0a</span>
-                                        <span class="message">fix: removing console.logs</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f69e558</span>
-                                        <span class="message">feat: lat and lon and search in offers</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#08eca44</span>
-                                        <span class="message">feat: destinations Report</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
