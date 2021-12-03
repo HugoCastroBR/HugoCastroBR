@@ -28,27 +28,7 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
-                                        <span class="sha">#2d6ff8a</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#af4bdb8</span>
+                                        <span class="sha">#e101ad5</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
                                 </div>
@@ -68,24 +48,24 @@
                                 <div class="details">
                                     <div>on branch <span class="code">staging</span></div>
                                     <div class="commit">
-                                        <span class="sha">#339bbde</span>
-                                        <span class="message">Merge pull request #235 from lubysoftware/develop
+                                        <span class="sha">#4e84137</span>
+                                        <span class="message">Merge pull request #237 from lubysoftware/develop
 
 Develop</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#4a50a90</span>
-                                        <span class="message">Merge pull request #234 from lubysoftware/fix/faleconoscoAdmin
+                                        <span class="sha">#416c861</span>
+                                        <span class="message">Merge pull request #236 from lubysoftware/fix/destinationRequest
 
-Fix/faleconosco admin</span>
+Fix/destination request</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a9b44e8</span>
-                                        <span class="message">adicionando retorno do usuario que efetuou o contato</span>
+                                        <span class="sha">#7cfb809</span>
+                                        <span class="message">mantendo ordençao dos relacionamentos</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9cfd95a</span>
-                                        <span class="message">ativado controller de contact no admin</span>
+                                        <span class="sha">#fd6e611</span>
+                                        <span class="message">Limitando relacionamentos nos detalhes de um destino</span>
                                     </div>
                                 </div>
                             </section>
@@ -98,12 +78,12 @@ Fix/faleconosco admin</span>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#235 Develop</span>
+                                        <span class="issue">#237 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">lubysoftware/PINGUIM.NEST</span></div>
-                                    <div>4 files changed <span class="code">++19 --12</span></div>
+                                    <div>1 file changed <span class="code">++55 --26</span></div>
                                 </div>
                             </section>
                         </div>
@@ -115,12 +95,12 @@ Fix/faleconosco admin</span>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#235 Develop</span>
+                                        <span class="issue">#237 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">lubysoftware/PINGUIM.NEST</span></div>
-                                    <div>4 files changed <span class="code">++19 --12</span></div>
+                                    <div>1 file changed <span class="code">++55 --26</span></div>
                                 </div>
                             </section>
                         </div>
@@ -138,18 +118,18 @@ Fix/faleconosco admin</span>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <span class="sha">#4a50a90</span>
-                                        <span class="message">Merge pull request #234 from lubysoftware/fix/faleconoscoAdmin
+                                        <span class="sha">#416c861</span>
+                                        <span class="message">Merge pull request #236 from lubysoftware/fix/destinationRequest
 
-Fix/faleconosco admin</span>
+Fix/destination request</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#a9b44e8</span>
-                                        <span class="message">adicionando retorno do usuario que efetuou o contato</span>
+                                        <span class="sha">#7cfb809</span>
+                                        <span class="message">mantendo ordençao dos relacionamentos</span>
                                     </div>
                                     <div class="commit">
-                                        <span class="sha">#9cfd95a</span>
-                                        <span class="message">ativado controller de contact no admin</span>
+                                        <span class="sha">#fd6e611</span>
+                                        <span class="message">Limitando relacionamentos nos detalhes de um destino</span>
                                     </div>
                                 </div>
                             </section>
@@ -162,12 +142,32 @@ Fix/faleconosco admin</span>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#234 Fix/faleconosco admin</span>
+                                        <span class="issue">#236 Fix/destination request</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>opened by alvesrafa in <span class="repo">lubysoftware/PINGUIM.NEST</span></div>
-                                    <div>4 files changed <span class="code">++19 --12</span></div>
+                                    <div>1 file changed <span class="code">++55 --26</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#2d6ff8a</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
                                 </div>
                             </section>
                         </div>
