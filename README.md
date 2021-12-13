@@ -58,6 +58,8 @@
 <table/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-631%20hrs%2014%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-150%20Thousand%20lines%20of%20code-blue)
@@ -66,7 +68,7 @@
 
 > 🏆 884 Contributions in the Year 2021
  > 
-> 📦 808.6 kB Used in GitHub's Storage 
+> 📦 808.8 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
