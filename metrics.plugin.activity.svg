@@ -1,8 +1,8 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1064" class="">
     <defs>
         <style/>
     </defs>
-    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
+    <style>@keyframes animation-gauge{0%{stroke-dasharray:0 329}}@keyframes animation-fade{0%{opacity:0}to{opacity:1}}@keyframes animation-rainbow{0%,to{color:#7f00ff;fill:#7f00ff}14%{color:#a933ff;fill:#a933ff}29%{color:#007fff;fill:#007fff}43%{color:#00ff7f;fill:#00ff7f}57%{color:#ff0;fill:#ff0}71%{color:#ff7f00;fill:#ff7f00}86%{color:red;fill:red}}svg{font-family:-apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;font-size:14px;color:#777}h2{margin:8px 0 2px;padding:0;color:#0366d6;font-weight:400;font-size:16px}h2 svg{fill:currentColor}section&gt;.field{margin-left:5px;margin-right:5px}.field{display:flex;align-items:center;margin-bottom:2px;white-space:nowrap}.field svg{margin:0 8px;fill:#959da5;flex-shrink:0}.row{display:flex;flex-wrap:wrap}.row section{flex:1 1 0}#metrics-end,.fill-width{width:100%}.activity{margin-bottom:12px}.activity .field{width:100%;overflow:hidden;text-overflow:ellipsis;max-width:450px;white-space:nowrap;margin-bottom:0}.activity .field .content{flex-grow:1;text-overflow:ellipsis;overflow:hidden}.activity .commit .sha,.activity .issue,.activity .repo{display:inline;color:#58a6ff}.activity .code,span.code{background-color:#7777771f;padding:1px 5px;font-size:80%;border-radius:6px;color:#777;font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace;margin:0 4px -3px}.activity .details{padding-left:38px;display:flex;flex-direction:column;font-size:13px;color:#666}.activity .commit .sha,code{font-family:SFMono-Regular,Consolas,Liberation Mono,Menlo,monospace}.activity .commit .message{overflow:hidden;text-overflow:ellipsis;width:360px;white-space:nowrap}code{background-color:#7777771f;display:inline-block;border-radius:6px;color:#777;padding:1px 5px;font-size:80%}:root{--color-calendar-graph-day-bg:#ebedf0;--color-calendar-graph-day-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-bg:#9be9a8;--color-calendar-graph-day-L2-bg:#40c463;--color-calendar-graph-day-L3-bg:#30a14e;--color-calendar-graph-day-L4-bg:#216e39;--color-calendar-halloween-graph-day-L1-bg:#ffee4a;--color-calendar-halloween-graph-day-L2-bg:#ffc501;--color-calendar-halloween-graph-day-L3-bg:#fe9600;--color-calendar-halloween-graph-day-L4-bg:#03001c;--color-calendar-graph-day-L4-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L3-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L2-border:rgba(27,31,35,0.06);--color-calendar-graph-day-L1-border:rgba(27,31,35,0.06)}</style>
     <foreignObject x="0" y="0" width="100%" height="100%">
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
@@ -28,127 +28,278 @@
                                 <div class="details">
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
+                                        <span class="sha">#d204b6e</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 13 commits in
+                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">action_prod</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#57c81e7</span>
+                                        <span class="message">Merge pull request #95 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#e86e5e7</span>
+                                        <span class="message">Merge branch 'action_prod' into staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0fe4f88</span>
+                                        <span class="message">Reverting</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#fa0edbc</span>
+                                        <span class="message">Update .gitignore</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b7b7011</span>
+                                        <span class="message">Merge pull request #94 from lubysoftware/develop
+
+Develop</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#37ec5e7</span>
+                                        <span class="message">Merge pull request #93 from lubysoftware/fix/offersDateText
+
+fix: data de exibiçao</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#b48bb07</span>
+                                        <span class="message">fix: data de exibiçao</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1584078</span>
+                                        <span class="message">Devops: fix namespace to dev</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#3d7db05</span>
+                                        <span class="message">Devops: automatic number registry</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0529490</span>
+                                        <span class="message">Devops: fix num image 1</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0b1d725</span>
+                                        <span class="message">Devops: fix cluster name</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#d6ea309</span>
+                                        <span class="message">Devops fix pipeline number registry</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#a32ff3d</span>
+                                        <span class="message">Devops: Starting pipeline staging</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M7.177 3.073L9.573.677A.25.25 0 0110 .854v4.792a.25.25 0 01-.427.177L7.177 3.427a.25.25 0 010-.354zM3.75 2.5a.75.75 0 100 1.5.75.75 0 000-1.5zm-2.25.75a2.25 2.25 0 113 2.122v5.256a2.251 2.251 0 11-1.5 0V5.372A2.25 2.25 0 011.5 3.25zM11 2.5h-1V4h1a1 1 0 011 1v5.628a2.251 2.251 0 101.5 0V5A2.5 2.5 0 0011 2.5zm1 10.25a.75.75 0 111.5 0 .75.75 0 01-1.5 0zM3.75 12a.75.75 0 100 1.5.75.75 0 000-1.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Merged
+                                        <span class="issue">#95 Staging</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div> in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span></div>
+                                    <div>6 files changed <span class="code">++14 --10</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 23 commits in
+                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">staging</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3187eaf</span>
+                                        <span class="message">Devops: add pipeline staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#751a4b3</span>
+                                        <span class="message">Merge pull request #92 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#264bb4d</span>
+                                        <span class="message">Merge pull request #89 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#cd1c27e</span>
+                                        <span class="message">Merge pull request #86 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ad1d7fe</span>
+                                        <span class="message">Merge pull request #83 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#43862b9</span>
+                                        <span class="message">Merge pull request #81 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#700b3ae</span>
+                                        <span class="message">Rename pipeline_main.txt to pipeline_main.yaml</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#1e67937</span>
+                                        <span class="message">Merge pull request #78 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f96afb2</span>
+                                        <span class="message">Merge pull request #73 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#967b7fe</span>
+                                        <span class="message">Merge pull request #70 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#ac8ee36</span>
+                                        <span class="message">Merge pull request #65 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#485122a</span>
+                                        <span class="message">Merge pull request #62 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#304a587</span>
+                                        <span class="message">Merge pull request #59 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#054212a</span>
+                                        <span class="message">Update 0_deployment.yaml</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#0121326</span>
+                                        <span class="message">Update Dockerfile</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f1ba10f</span>
+                                        <span class="message">Update Dockerfile</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#168ce14</span>
+                                        <span class="message">Update and rename old.env to oldEnv</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#f7428aa</span>
+                                        <span class="message">Rename .env to old.env</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#7847b2b</span>
+                                        <span class="message">Merge pull request #56 from lubysoftware/staging
+
+Staging</span>
+                                    </div>
+                                    <div class="commit">
+                                        <span class="sha">#8a617a0</span>
+                                        <span class="message">Devops: Branch to github actions</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">staging</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#0fe4f88</span>
+                                        <span class="message">Reverting</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">staging</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#fa0edbc</span>
+                                        <span class="message">Update .gitignore</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
                                         <span class="sha">#29874c5</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3f6f3c9</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c5a5bf4</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#c93cdb5</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#721539b</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#4e7c5b2</span>
-                                        <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#994dc00</span>
                                         <span class="message">Updated with Dev Metrics</span>
                                     </div>
                                 </div>
