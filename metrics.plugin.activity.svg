@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="1064" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="727" class="">
     <defs>
         <style/>
     </defs>
@@ -14,6 +14,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#39962bb</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -182,126 +202,6 @@ fix: data de exibiçao</span>
                                 <div class="details">
                                     <div> in <span class="repo">lubysoftware/PINGUIM.CMSNEW</span></div>
                                     <div>6 files changed <span class="code">++14 --10</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">staging</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#3187eaf</span>
-                                        <span class="message">Devops: add pipeline staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#751a4b3</span>
-                                        <span class="message">Merge pull request #92 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#264bb4d</span>
-                                        <span class="message">Merge pull request #89 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#cd1c27e</span>
-                                        <span class="message">Merge pull request #86 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ad1d7fe</span>
-                                        <span class="message">Merge pull request #83 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#43862b9</span>
-                                        <span class="message">Merge pull request #81 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#700b3ae</span>
-                                        <span class="message">Rename pipeline_main.txt to pipeline_main.yaml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1e67937</span>
-                                        <span class="message">Merge pull request #78 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f96afb2</span>
-                                        <span class="message">Merge pull request #73 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#967b7fe</span>
-                                        <span class="message">Merge pull request #70 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#ac8ee36</span>
-                                        <span class="message">Merge pull request #65 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#485122a</span>
-                                        <span class="message">Merge pull request #62 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#304a587</span>
-                                        <span class="message">Merge pull request #59 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#054212a</span>
-                                        <span class="message">Update 0_deployment.yaml</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0121326</span>
-                                        <span class="message">Update Dockerfile</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f1ba10f</span>
-                                        <span class="message">Update Dockerfile</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#168ce14</span>
-                                        <span class="message">Update and rename old.env to oldEnv</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#f7428aa</span>
-                                        <span class="message">Rename .env to old.env</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#7847b2b</span>
-                                        <span class="message">Merge pull request #56 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#8a617a0</span>
-                                        <span class="message">Devops: Branch to github actions</span>
-                                    </div>
                                 </div>
                             </section>
                         </div>
