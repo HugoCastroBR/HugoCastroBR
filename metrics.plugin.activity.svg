@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="728" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="498" class="">
     <defs>
         <style/>
     </defs>
@@ -14,6 +14,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <span class="sha">#3bb7d5c</span>
+                                        <span class="message">Updated with Dev Metrics</span>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -130,80 +150,6 @@
                                     <div class="commit">
                                         <span class="sha">#d204b6e</span>
                                         <span class="message">Updated with Dev Metrics</span>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">lubysoftware/PINGUIM.CMSNEW</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">action_prod</span></div>
-                                    <div class="commit">
-                                        <span class="sha">#57c81e7</span>
-                                        <span class="message">Merge pull request #95 from lubysoftware/staging
-
-Staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#e86e5e7</span>
-                                        <span class="message">Merge branch 'action_prod' into staging</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0fe4f88</span>
-                                        <span class="message">Reverting</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#fa0edbc</span>
-                                        <span class="message">Update .gitignore</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b7b7011</span>
-                                        <span class="message">Merge pull request #94 from lubysoftware/develop
-
-Develop</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#37ec5e7</span>
-                                        <span class="message">Merge pull request #93 from lubysoftware/fix/offersDateText
-
-fix: data de exibiçao</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#b48bb07</span>
-                                        <span class="message">fix: data de exibiçao</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#1584078</span>
-                                        <span class="message">Devops: fix namespace to dev</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#3d7db05</span>
-                                        <span class="message">Devops: automatic number registry</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0529490</span>
-                                        <span class="message">Devops: fix num image 1</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#0b1d725</span>
-                                        <span class="message">Devops: fix cluster name</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#d6ea309</span>
-                                        <span class="message">Devops fix pipeline number registry</span>
-                                    </div>
-                                    <div class="commit">
-                                        <span class="sha">#a32ff3d</span>
-                                        <span class="message">Devops: Starting pipeline staging</span>
                                     </div>
                                 </div>
                             </section>
