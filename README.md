@@ -68,7 +68,7 @@
 
 > 🏆 0 Contributions in the Year 2022
  > 
-> 📦 820.3 kB Used in GitHub's Storage 
+> 📦 820.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
