@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="607" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c5585c1</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -161,84 +181,6 @@ Feature/relatorios</div>
                                 </div>
                                 <div class="details">
                                     <div>opened by alvesrafa in <span class="repo">DomperGit/repoDomperFrontend</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">DomperGit/repoDomperCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c92b879</div>
-                                        <div class="message">Merge pull request #92 from DomperGit/fix/relatorios
-
-Fix/relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee75478</div>
-                                        <div class="message">Merge pull request #93 from DomperGit/feature/relatorios
-
-Feature/relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#34f5544</div>
-                                        <div class="message">fix: fixing name and date</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c6920f6</div>
-                                        <div class="message">pre-merge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#df04225</div>
-                                        <div class="message">voltando const modelo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2fa67a4</div>
-                                        <div class="message">fix: refatorando tratamento de datas, e criaçao das colunas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a5d6422</div>
-                                        <div class="message">merge</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5e4dedf</div>
-                                        <div class="message">fix: adicionando tratamento de erros e formataçao de dados</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e7f1f22</div>
-                                        <div class="message">feat: more infos in reports</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a534323</div>
-                                        <div class="message">Merge pull request #91 from DomperGit/fix/relatorios
-
-Fix/relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74c937c</div>
-                                        <div class="message">salvando modelo de relatorio ao gerar</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1ecc7a5</div>
-                                        <div class="message">Merge branch 'feature/relatorios' of https://github.com/DomperGit/repoDomperCore into fix/relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9f2475d</div>
-                                        <div class="message">fix: exclusao de relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6d24c71</div>
-                                        <div class="message">feat: added new migrations and model in migration</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
