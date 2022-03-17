@@ -58,8 +58,6 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-667%20hrs%2038%20mins-blue)
-
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
@@ -68,7 +66,7 @@
 
 > 🏆 52 Contributions in the Year 2022
  > 
-> 📦 839.8 kB Used in GitHub's Storage 
+> 📦 840.2 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -129,7 +127,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/03/2022 02:51:31 UTC
+ Last Updated on 17/03/2022 03:05:43 UTC
 <!--END_SECTION:waka-->
 
 
