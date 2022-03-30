@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="857" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="540" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c9a789c</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -142,102 +162,6 @@ Feature/form people</div>
                                     <div class="commit">
                                         <div class="sha">#97c6e33</div>
                                         <div class="message">feat: starting paises filter</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 23 commits in
-                                        <span class="repo">DomperGit/repoDomperApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#53c3bca</div>
-                                        <div class="message">preenchimento e envio dos formularios de contatos e telefones</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ee30e8e</div>
-                                        <div class="message">validaços e mascaras de telefones lista</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bf1382f</div>
-                                        <div class="message">iniciando formularios e listagens d telefones e conrtatos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#74bdfcc</div>
-                                        <div class="message">verificando permissao de ediçao para programa especifico, e dsabilitando campos de formulario</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1d8068e</div>
-                                        <div class="message">correçoes de interface</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#10e8227</div>
-                                        <div class="message">fix conflitoss</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5f3e49b</div>
-                                        <div class="message">formataçao de dados basicos e enderecos para a api, exclusao e edicao n-n</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7ae8fa9</div>
-                                        <div class="message">chamadas para preechimento de campos de localidades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9852c75</div>
-                                        <div class="message">dados de pessoa detalhado, loading nos formularios, chamada de paises</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#9e249d8</div>
-                                        <div class="message">validaçoes e interfaces de pessoas, estrutura para envio da api dos dados basicos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a04fdc3</div>
-                                        <div class="message">correçoes gerais no fluxo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#06e2897</div>
-                                        <div class="message">melhorias de performance</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#921322e</div>
-                                        <div class="message">reestruturando tabs nos formulario</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5ad7817</div>
-                                        <div class="message">tratamento de dados de endereço</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#ddf876c</div>
-                                        <div class="message">schemas yup, validaçoes personalizadas, form de endereços</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6755c9c</div>
-                                        <div class="message">gerando proximo codigo de pessoa, iniciando listagem de endereços</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5d4e962</div>
-                                        <div class="message">visualizar dados primeira pagina</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#67ec9c5</div>
-                                        <div class="message">fix multi select</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d5513ab</div>
-                                        <div class="message">feature new select</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#0e8bd70</div>
-                                        <div class="message">fix initial values e estrutura de formularios</div>
                                     </div>
                                 </div>
                             </section>
