@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="923" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="607" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#6094424</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -158,110 +178,6 @@ Fix/services</div>
                                 <div class="details">
                                     <div> in <span class="repo">DomperGit/repoDomperCore</span></div>
                                     <div>3 files changed <span class="code">++54 --0</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 58 commits in
-                                        <span class="repo">DomperGit/repoDomperCore</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/searchFilters</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#19accac</div>
-                                        <div class="message">Merge pull request #110 from DomperGit/feat/permissao-lancamento
-
-Feat/permissao lancamento</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2f6c619</div>
-                                        <div class="message">Merge pull request #108 from DomperGit/feat/searchPropriedades
-
-feat: search propriedades endpoint</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d1f623b</div>
-                                        <div class="message">feat: filtro área cultura</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5fe6caa</div>
-                                        <div class="message">Merge branch 'develop' of github-domper:DomperGit/repoDomperCore into feat/permissao-lancamento</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a865627</div>
-                                        <div class="message">feat: permissão MultiCultura</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#cd58e40</div>
-                                        <div class="message">feat: paginacao nos relatorios</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f65f7a2</div>
-                                        <div class="message">retorno de pais do endereco do usuario</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6c08942</div>
-                                        <div class="message">feat: não listar programas internos nos combobox de programas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#3cdfd74</div>
-                                        <div class="message">fix: removido cascade cadastros estrangeiros tabelas produtos</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#17b1280</div>
-                                        <div class="message">Merge pull request #107 from DomperGit/feat/produto-concentrado
-
-Feat/produto concentrado</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d2a198d</div>
-                                        <div class="message">feat: filtro Departamento do Produto nas Unidades de Medida</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#eeef27a</div>
-                                        <div class="message">Merge branch 'develop' of github.com:DomperGit/repoDomperCore into feat/produto-concentrado</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2329288</div>
-                                        <div class="message">feat: filtro data final lançamento Unidade Produtiva Cultura</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#824ce17</div>
-                                        <div class="message">feat: relatorio cnae</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#785a311</div>
-                                        <div class="message">Merge branch 'develop' of github.com:DomperGit/repoDomperCore into feat/produto-concentrado</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97ee942</div>
-                                        <div class="message">feat: ajustes produtoQuimico e campo areaTotal</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1bb9b78</div>
-                                        <div class="message">fix: filtro produtoAlvo</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#823641b</div>
-                                        <div class="message">Merge pull request #105 from DomperGit/fix/pesquisarPessoasQuery
-
-fix: done</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b545f3e</div>
-                                        <div class="message">Merge branch 'develop' of github.com:DomperGit/repoDomperCore into feat/produto-concentrado</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e6920dd</div>
-                                        <div class="message">feat: campo concentrado prod químico e variações OneToMany</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
