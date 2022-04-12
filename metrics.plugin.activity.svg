@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="707" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="490" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#770fc01</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -131,80 +151,6 @@
                                     <div class="commit">
                                         <div class="sha">#c4b987b</div>
                                         <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 14 commits in
-                                        <span class="repo">DomperGit/repoDomperApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b857605</div>
-                                        <div class="message">Merge pull request #23 from DomperGit/feat/formPropriedades
-
-Feat/form propriedades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a3a849c</div>
-                                        <div class="message">correções propriedades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#498c3df</div>
-                                        <div class="message">merge develop filters</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f8c0216</div>
-                                        <div class="message">Validações personalizadas para unidades produtivas -&gt; culturas -&gt; configuraçoes da cultura</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d209e5a</div>
-                                        <div class="message">correções de update e cadastro de unidades produtivas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#fbc533a</div>
-                                        <div class="message">Iniciando estruturação de adição n-n para propriedades -&gt; unidades produtivas -&gt; culturas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1b2f961</div>
-                                        <div class="message">Iniciando listagens e formularios de unidades produtivas e culturas para unidades produtivas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#4b31a79</div>
-                                        <div class="message">Fluxo de cadastro e atualização das propriedades sem o mapa e unidades produtivas</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a2dd134</div>
-                                        <div class="message">Listagens n-n de propriedades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#b770209</div>
-                                        <div class="message">Componentizando formularios/listagens reutilizaveis</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1485346</div>
-                                        <div class="message">tratando dados iniciais da primeira pagina</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#daa0edd</div>
-                                        <div class="message">estruturação da primeira pagina de propriedades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#2271f68</div>
-                                        <div class="message">Merge branch 'develop' of https://github.com/DomperGit/repoDomperApp into feat/formPropriedades</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#765fd1b</div>
-                                        <div class="message">Iniciando formulario de propriedades</div>
                                     </div>
                                 </div>
                             </section>
