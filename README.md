@@ -58,7 +58,9 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Profile Views](http://img.shields.io/badge/Profile%20Views-25-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-682%20hrs%2056%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
 
@@ -66,7 +68,7 @@
 
 > 🏆 65 Contributions in the Year 2022
  > 
-> 📦 835.8 kB Used in GitHub's Storage 
+> 📦 836.3 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -101,13 +103,13 @@ Sunday       15 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 43 mins       █████████████████████████   100.0%
+TypeScript               2 hrs 41 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 43 mins       █████████████████████████   100.0%
+VS Code                  2 hrs 41 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 43 mins       █████████████████████████   100.0%
+Windows                  2 hrs 41 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +126,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 13/04/2022 03:11:37 UTC
+ Last Updated on 13/04/2022 04:36:46 UTC
 <!--END_SECTION:waka-->
 
 
