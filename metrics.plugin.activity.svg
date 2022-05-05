@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="490" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="823" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,152 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#fb143fa</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 128 commits in
+                                        <span class="repo">DomperGit/repoDomperCore</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/searchFilters</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#1ba51bc</div>
+                                        <div class="message">merge</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#aa5114a</div>
+                                        <div class="message">feat: add file upload route to aws</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a6c6275</div>
+                                        <div class="message">feat: incluído pipeline CI/CD para o ambiente de homolog</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#cacd720</div>
+                                        <div class="message">feat: relatorio pessoas; nao refatorado</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#73899c3</div>
+                                        <div class="message">Merge pull request #123 from DomperGit/develop
+
+Develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#d4d5f83</div>
+                                        <div class="message">refact: removendo console logs</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7e28012</div>
+                                        <div class="message">fix: cast em comparacoes</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#4ab5f54</div>
+                                        <div class="message">Merge branch 'develop' into refact/relatorios</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#a5eca2e</div>
+                                        <div class="message">fix: tipo realtorio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7c25ff9</div>
+                                        <div class="message">Merge pull request #120 from DomperGit/develop
+
+Develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#fe466c2</div>
+                                        <div class="message">Merge branch 'develop' into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#7f2395b</div>
+                                        <div class="message">refact: removendo funcao sem uso</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#263dbed</div>
+                                        <div class="message">refact: enum para modelo e tipo de relatorio</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#55b137d</div>
+                                        <div class="message">Merge branch 'develop' into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#701a4f5</div>
+                                        <div class="message">Merge branch 'develop' into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#91ab727</div>
+                                        <div class="message">Merge branch 'staging' of https://github.com/DomperGit/repoDomperCore into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#12a1312</div>
+                                        <div class="message">Merge branch 'develop' into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#0a6bd6f</div>
+                                        <div class="message">Merge pull request #106 from DomperGit/develop
+
+Develop</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#033f3e1</div>
+                                        <div class="message">Merge branch 'staging' of https://github.com/DomperGit/repoDomperCore into staging</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#92727df</div>
+                                        <div class="message">Merge branch 'develop' into staging</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 2 commits in
+                                        <span class="repo">DomperGit/repoDomperApp</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">feat/listsAdvanced</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#77bb3c4</div>
+                                        <div class="message">fix: fixing date component</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#b985acd</div>
+                                        <div class="message">feat: changing filters</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -90,66 +236,6 @@
                                     <div>on branch <span class="code">master</span></div>
                                     <div class="commit">
                                         <div class="sha">#9e241ef</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#6034023</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#bf36b57</div>
-                                        <div class="message">Updated with Dev Metrics</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">master</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#ab17c8e</div>
                                         <div class="message">Updated with Dev Metrics</div>
                                     </div>
                                 </div>
