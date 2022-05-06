@@ -58,6 +58,8 @@
 <table/>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-694%20hrs%203%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-26-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
@@ -101,13 +103,13 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 17 mins       █████████████████████████   100.0%
+TypeScript               3 hrs 13 mins       █████████████████████████   100.0%
 
 🔥 Editors: 
-VS Code                  2 hrs 17 mins       █████████████████████████   100.0%
+VS Code                  3 hrs 13 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 17 mins       █████████████████████████   100.0%
+Windows                  3 hrs 13 mins       █████████████████████████   100.0%
 
 ```
 
@@ -124,7 +126,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 06/05/2022 03:03:18 UTC
+ Last Updated on 06/05/2022 03:46:48 UTC
 <!--END_SECTION:waka-->
 
 
