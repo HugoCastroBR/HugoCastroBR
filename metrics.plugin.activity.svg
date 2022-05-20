@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="690" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="490" class="">
     <defs>
         <style/>
     </defs>
@@ -15,6 +15,26 @@
                 </h2>
                 <div class="row">
                     <section>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/HugoCastroBR</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">master</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#22d4a99</div>
+                                        <div class="message">Updated with Dev Metrics</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
                         <div class="row fill-width">
                             <section class="activity">
                                 <div class="field">
@@ -129,88 +149,6 @@
                                 <div class="details">
                                     <div> in <span class="repo">DomperGit/repoDomperApp</span></div>
                                     <div>17 files changed <span class="code">++735 --58</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 13 commits in
-                                        <span class="repo">DomperGit/repoDomperApp</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">feat/listsAdvanced</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#b63c0b6</div>
-                                        <div class="message">merge changes</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#6edf37e</div>
-                                        <div class="message">fix: disable activity posting listing</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#84aee67</div>
-                                        <div class="message">Merge pull request #41 from DomperGit/feat/listaDeLancamento
-
-Feat/lista de lancamento</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#39c593c</div>
-                                        <div class="message">refact: sligh improvements in activity launch context</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#36c6cd5</div>
-                                        <div class="message">style: add prettier file with quote rules</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#97a8248</div>
-                                        <div class="message">fix: adjusting activity posting types</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#05069f7</div>
-                                        <div class="message">fix: adjust title in menu and property name display</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#bcfaed3</div>
-                                        <div class="message">Icon Listagem
-
-- Adição do Icone Listagem
-- Adição do Icone no Drawer</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#e5425d5</div>
-                                        <div class="message">feat: Visualização da lista de lançamentos de atividades
-
-- Criação do botão no menu lateral para a Tela Lista de Lançamento de Atividades
-- Criação da Tela Lista de Lançamento de Atividades (Listagem dos lançamentos)
-- Criação da rota para a Tela Lista de Lançamento de Atividades
-- Criação do Context LancamentoAtividades (intarfaces e LancamentoAtividadesContext)</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#23e73db</div>
-                                        <div class="message">Merge pull request #40 from DomperGit/fix/rodape
-
-fix: correção de rodapé da página de login</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#7909a39</div>
-                                        <div class="message">fix: correção de rodapé da página de login</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#41ef86e</div>
-                                        <div class="message">correções gerais</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#83bb5ad</div>
-                                        <div class="message">Merge pull request #39 from DomperGit/feat/listsAdvanced
-
-Feat/lists advanced</div>
-                                    </div>
                                 </div>
                             </section>
                         </div>
