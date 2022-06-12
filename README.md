@@ -60,23 +60,22 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-711%20hrs%208%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-orange)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-418%20Thousand%20lines%20of%20code-blue)
 
-**🐱 My GitHub Data** 
+**📊 Global GitHub data** 
 
-> 🏆 80 Contributions in the Year 2022
+```text
+🏆 80 contributions in 2022
+
+📦 846.7 kB used in GitHub's storage 
+
+📜 28 Public Repositories 
+
+🔑 10 Private Repositories  
  > 
-> 📦 846.7 kB Used in GitHub's Storage 
- > 
-> 💼 Opted to Hire
- > 
-> 📜 28 Public Repositories 
- > 
-> 🔑 10 Private Repositories  
- > 
-**I'm an Early 🐤** 
+**I'm an early 🐤** 
 
 ```text
 🌞 Morning    140 commits    █████████░░░░░░░░░░░░░░░░   36.08% 
@@ -85,7 +84,7 @@
 🌙 Night      0 commits      ░░░░░░░░░░░░░░░░░░░░░░░░░   0.0%
 
 ```
-📅 **I'm Most Productive on Monday** 
+📅 **I'm most productive on Monday** 
 
 ```text
 Monday       97 commits     ██████░░░░░░░░░░░░░░░░░░░   25.0% 
@@ -99,7 +98,7 @@ Sunday       10 commits     ░░░░░░░░░░░░░░░░░�
 ```
 
 
-📊 **This Week I Spent My Time On** 
+📊 **This week I spent my time on** 
 
 ```text
 💬 Programming Languages: 
@@ -115,7 +114,7 @@ Windows                  2 hrs 33 mins       ███████████�
 
 ```
 
-**I Mostly Code in JavaScript** 
+**💻 I mostly code in JavaScript** 
 
 ```text
 JavaScript               19 repos            █████████░░░░░░░░░░░░░░░░   37.25% 
@@ -128,7 +127,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/06/2022 07:37:06 UTC
+ Last Updated on 12/06/2022 07:48:01 UTC
 <!--END_SECTION:waka-->
 
 
