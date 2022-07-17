@@ -66,8 +66,6 @@
 
 **🐱 My GitHub Data** 
 
-> 🏆 193 Contributions in the Year 2022
- > 
 > 📦 859.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
@@ -130,7 +128,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 17/07/2022 18:01:40 UTC
+ Last Updated on 17/07/2022 18:30:55 UTC
 <!--END_SECTION:waka-->
 
 
