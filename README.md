@@ -58,7 +58,7 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time--blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-736%20hrs%2032%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-6-blue)
 
@@ -129,7 +129,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2022 18:20:15 UTC
+ Last Updated on 12/09/2022 18:49:59 UTC
 <!--END_SECTION:waka-->
 
 
