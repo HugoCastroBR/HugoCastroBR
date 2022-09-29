@@ -68,7 +68,7 @@
 
 > 🏆 298 Contributions in the Year 2022
  > 
-> 📦 883.0 kB Used in GitHub's Storage 
+> 📦 882.5 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -103,16 +103,13 @@ Sunday       2 commits      ░░░░░░░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               5 mins              ██████████████████████░░░   91.42% 
-Bash                     0 secs              ██░░░░░░░░░░░░░░░░░░░░░░░   8.18% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.2% 
-Docker                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.19%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  6 mins              █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
@@ -129,7 +126,7 @@ CSS                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/09/2022 03:55:18 UTC
+ Last Updated on 29/09/2022 05:25:35 UTC
 <!--END_SECTION:waka-->
 
 
