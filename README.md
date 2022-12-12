@@ -62,13 +62,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-10-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-436%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-414%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 302 Contributions in the Year 2022
  > 
-> 📦 914.9 kB Used in GitHub's Storage 
+> 📦 914.7 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -113,20 +113,20 @@ No Activity Tracked This Week
 
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               14 repos            ████████░░░░░░░░░░░░░░░░░   34.15% 
-JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   31.71% 
-Python                   6 repos             ███░░░░░░░░░░░░░░░░░░░░░░   14.63% 
-HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.2% 
-CSS                      3 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   7.32%
+JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
+TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95% 
+Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
+HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
+CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
 
 ```
 
 
 
- Last Updated on 12/12/2022 17:42:05 UTC
+ Last Updated on 12/12/2022 17:50:19 UTC
 <!--END_SECTION:waka-->
 
 
