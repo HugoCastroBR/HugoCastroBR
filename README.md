@@ -60,7 +60,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-742%20hrs%2022%20mins-blue)
 
-![Profile Views](http://img.shields.io/badge/Profile%20Views-2-blue)
+![Profile Views](http://img.shields.io/badge/Profile%20Views-3-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415%20Thousand%20lines%20of%20code-blue)
 
@@ -116,8 +116,8 @@ No Activity Tracked This Week
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               13 repos            ████████░░░░░░░░░░░░░░░░░   34.21% 
-TypeScript               11 repos            ███████░░░░░░░░░░░░░░░░░░   28.95% 
+JavaScript               12 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
+TypeScript               12 repos            ████████░░░░░░░░░░░░░░░░░   31.58% 
 Python                   6 repos             ████░░░░░░░░░░░░░░░░░░░░░   15.79% 
 HTML                     5 repos             ███░░░░░░░░░░░░░░░░░░░░░░   13.16% 
 CSS                      3 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   7.89%
@@ -126,7 +126,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 28/12/2022 18:33:13 UTC
+ Last Updated on 28/12/2022 18:42:42 UTC
 <!--END_SECTION:waka-->
 
 
