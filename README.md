@@ -62,13 +62,13 @@
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-7-blue)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-152%20Thousand%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-415%20Thousand%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 🏆 0 Contributions in the Year 2023
  > 
-> 📦 934.9 kB Used in GitHub's Storage 
+> 📦 935.4 kB Used in GitHub's Storage 
  > 
 > 💼 Opted to Hire
  > 
@@ -126,7 +126,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 07/01/2023 14:51:06 UTC
+ Last Updated on 07/01/2023 15:19:38 UTC
 <!--END_SECTION:waka-->
 
 
