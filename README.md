@@ -58,7 +58,7 @@
 <table/>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-745%20hrs%2057%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-9-blue)
 
@@ -103,13 +103,14 @@ Sunday           2 commits       ████░░░░░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JSON                     9 mins              ████████████████████████░   98.99 % 
+JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 
 ```
 
@@ -126,7 +127,7 @@ CSS                      3 repos             ██░░░░░░░░░�
 
 
 
- Last Updated on 16/02/2023 03:07:28 UTC
+ Last Updated on 16/02/2023 03:20:04 UTC
 <!--END_SECTION:waka-->
 
 
