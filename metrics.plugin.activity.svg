@@ -19,6 +19,50 @@
                             <section class="activity">
                                 <div class="field">
                                     <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 1 commit in
+                                        <span class="repo">HugoCastroBR/ALASKA-OS</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">dev</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#c83f0a8</div>
+                                        <div class="message">feat: music visualizaion and ptsd comments, i'm sorry</div>
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Commented on
+                                        <span class="issue">#54 Audio record app</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>opened by HugoCastroBR in <span class="repo">HugoCastroBR/ALASKA-OS</span></div>
+                                    <div class="comment">
+                                        <i>Hey can you please elaborate on your issue more clearly ... it will be a great help to me to figure out how to start :)</i>
+                                        Description changed :), pls before start try to understand the patterns of the software
+In general using atomic design for UI, mantine UI components and Tailwind Css, for the files i am using indexedDB by the useFS hook and BrowserFS, the app shou have a white icon following the patterns of the rest of the application and use the DefaultWindow as container also I'm using latin1, utf-8 and base64(no types included) 
+By default everything is using this base, as a good start you should not create a new slice for de application, just put it in the window slice and handler it in the DesktopView.tsx
+If u need more information just comment here, i will reply asap.
+Good luck!
+                                    </div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
                                         <path d="M11.28 6.78a.75.75 0 00-1.06-1.06L7.25 8.69 5.78 7.22a.75.75 0 00-1.06 1.06l2 2a.75.75 0 001.06 0l3.5-3.5z"/>
                                         <path fill-rule="evenodd" d="M16 8A8 8 0 110 8a8 8 0 0116 0zm-1.5 0a6.5 6.5 0 11-13 0 6.5 6.5 0 0113 0z"/>
                                     </svg>
@@ -101,64 +145,6 @@ Maybe u have to use --force flag when installing with npm, good luck!</div>
                                 </div>
                                 <div class="details">
                                     <div>opened  in <span class="repo">HugoCastroBR/ALASKA-OS</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 1 commit in
-                                        <span class="repo">HugoCastroBR/ALASKA-OS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">dev</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#c61bb64</div>
-                                        <div class="message">fix: native music player</div>
-                                    </div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M2.75 2.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h2a.75.75 0 01.75.75v2.19l2.72-2.72a.75.75 0 01.53-.22h4.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25H2.75zM1 2.75C1 1.784 1.784 1 2.75 1h10.5c.966 0 1.75.784 1.75 1.75v7.5A1.75 1.75 0 0113.25 12H9.06l-2.573 2.573A1.457 1.457 0 014 13.543V12H2.75A1.75 1.75 0 011 10.25v-7.5z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Commented on
-                                        <span class="issue">#16 Map the OS</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>opened by HugoCastroBR in <span class="repo">HugoCastroBR/ALASKA-OS</span></div>
-                                    <div class="comment">'Console': Console,
-    'File Explorer': FileExplorer,
-    'Browser': Browser,
-    'Image Reader': ImageReader,
-    'Pokemon Fire Red': PokemonFireRed,
-    'Notepad': Notepad,
-    'Markdown Editor': MarkdownEditor,
-    'Rich Text Editor': RichTextEditor,
-    'PDF Reader': PdfReader,
-    'Code Editor': CodeEditor,
-    'Calendar': CalendarProgram,
-    'My Musics': MyMusics,
-    'Video Player': VideoPlayer,
-    'Calculator': Calculator,
-    'Classic Paint': ClassicPaint,
-    'Music Player': NativeMusicPlayer,
-    'SpreadSheet': SpreadSheet,
-    'Settings': Settings,
-    'Gallery': Gallery,
-    'Weather App': WeatherApp,
-    'Todo App': TodoApp,
-    'Clock App': ClockApp,</div>
                                 </div>
                             </section>
                         </div>
