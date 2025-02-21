@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="623" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="590" class="">
     <defs>
         <style/>
     </defs>
@@ -22,41 +22,31 @@
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 6 commits in
-                                        <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span>
+                                        Pushed 4 commits in
+                                        <span class="repo">desenvolvimento-intuix/intuix-nest-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dnx</span></div>
                                     <div class="commit">
-                                        <div class="sha">#2176270</div>
-                                        <div class="message">Merge pull request #114 from desenvolvimento-intuix/develop
+                                        <div class="sha">#ebfe881</div>
+                                        <div class="message">Merge pull request #66 from desenvolvimento-intuix/develop
 
 Develop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#7a86845</div>
-                                        <div class="message">Merge pull request #113 from desenvolvimento-intuix/fix/RD-1768
+                                        <div class="sha">#e4ca7e6</div>
+                                        <div class="message">Merge pull request #65 from desenvolvimento-intuix/fix/RD-1768
 
-Fix/rd 1768: Criado tratativa de erros no front</div>
+Fix/rd 1768: Criado uma transaction na criacao do customer</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#5aad6eb</div>
-                                        <div class="message">feat(RD-1768): Criado e aplicado mascara para cpnj, cpf e telefone</div>
+                                        <div class="sha">#def3e34</div>
+                                        <div class="message">fix(RD-1786): Criado uma transaction para inibir a criacao de usuario sem criar uma empresa</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d45d418</div>
-                                        <div class="message">fix(RD-1768): Criado um tratamento de erros no front</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#a05d500</div>
-                                        <div class="message">Merge pull request #110 from desenvolvimento-intuix/feature/RD-1788
-
-feat(RD-1788): Aumentado o tamanho do cartaz de Denuncia</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#53e9ffd</div>
-                                        <div class="message">feat(RD-1788): Aumentado o tamanho do cartaz de Denuncia na hora da impressao</div>
+                                        <div class="sha">#8be04d0</div>
+                                        <div class="message">fix: arrumado layout do email</div>
                                     </div>
                                 </div>
                             </section>
@@ -69,12 +59,12 @@ feat(RD-1788): Aumentado o tamanho do cartaz de Denuncia</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#114 Develop</span>
+                                        <span class="issue">#66 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>5 files changed <span class="code">++84 --13</span></div>
+                                    <div> in <span class="repo">desenvolvimento-intuix/intuix-nest-api</span></div>
+                                    <div>2 files changed <span class="code">++49 --41</span></div>
                                 </div>
                             </section>
                         </div>
@@ -86,12 +76,42 @@ feat(RD-1788): Aumentado o tamanho do cartaz de Denuncia</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#114 Develop</span>
+                                        <span class="issue">#66 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div> in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>5 files changed <span class="code">++84 --13</span></div>
+                                    <div> in <span class="repo">desenvolvimento-intuix/intuix-nest-api</span></div>
+                                    <div>2 files changed <span class="code">++49 --41</span></div>
+                                </div>
+                            </section>
+                        </div>
+                        <div class="row fill-width">
+                            <section class="activity">
+                                <div class="field">
+                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
+                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
+                                    </svg>
+                                    <div class="content">
+                                        Pushed 3 commits in
+                                        <span class="repo">desenvolvimento-intuix/intuix-nest-api</span>
+                                    </div>
+                                </div>
+                                <div class="details">
+                                    <div>on branch <span class="code">develop</span></div>
+                                    <div class="commit">
+                                        <div class="sha">#e4ca7e6</div>
+                                        <div class="message">Merge pull request #65 from desenvolvimento-intuix/fix/RD-1768
+
+Fix/rd 1768: Criado uma transaction na criacao do customer</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#def3e34</div>
+                                        <div class="message">fix(RD-1786): Criado uma transaction para inibir a criacao de usuario sem criar uma empresa</div>
+                                    </div>
+                                    <div class="commit">
+                                        <div class="sha">#8be04d0</div>
+                                        <div class="message">fix: arrumado layout do email</div>
+                                    </div>
                                 </div>
                             </section>
                         </div>
@@ -103,42 +123,12 @@ feat(RD-1788): Aumentado o tamanho do cartaz de Denuncia</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#113 Fix/rd 1768: Criado tratativa de erros no front</span>
+                                        <span class="issue">#65 Fix/rd 1768: Criado uma transaction na criacao do customer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>4 files changed <span class="code">++80 --9</span></div>
-                                </div>
-                            </section>
-                        </div>
-                        <div class="row fill-width">
-                            <section class="activity">
-                                <div class="field">
-                                    <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
-                                        <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
-                                    </svg>
-                                    <div class="content">
-                                        Pushed 3 commits in
-                                        <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span>
-                                    </div>
-                                </div>
-                                <div class="details">
-                                    <div>on branch <span class="code">develop</span></div>
-                                    <div class="commit">
-                                        <div class="sha">#7a86845</div>
-                                        <div class="message">Merge pull request #113 from desenvolvimento-intuix/fix/RD-1768
-
-Fix/rd 1768: Criado tratativa de erros no front</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#5aad6eb</div>
-                                        <div class="message">feat(RD-1768): Criado e aplicado mascara para cpnj, cpf e telefone</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d45d418</div>
-                                        <div class="message">fix(RD-1768): Criado um tratamento de erros no front</div>
-                                    </div>
+                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-nest-api</span></div>
+                                    <div>2 files changed <span class="code">++49 --41</span></div>
                                 </div>
                             </section>
                         </div>
@@ -150,11 +140,11 @@ Fix/rd 1768: Criado tratativa de erros no front</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#113 Fix/rd 1768: Criado tratativa de erros no front</span>
+                                        <span class="issue">#65 Fix/rd 1768: Criado uma transaction na criacao do customer</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
+                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-nest-api</span></div>
                                 </div>
                             </section>
                         </div>
@@ -166,26 +156,26 @@ Fix/rd 1768: Criado tratativa de erros no front</div>
                                     </svg>
                                     <div class="content">
                                         Pushed 3 commits in
-                                        <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span>
+                                        <span class="repo">desenvolvimento-intuix/intuix-nest-api</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dnx</span></div>
                                     <div class="commit">
-                                        <div class="sha">#c6edd87</div>
-                                        <div class="message">Merge pull request #109 from desenvolvimento-intuix/master
+                                        <div class="sha">#78c5b97</div>
+                                        <div class="message">Merge pull request #64 from desenvolvimento-intuix/develop
 
-Hotfix dev</div>
+Develop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#d05a2dc</div>
-                                        <div class="message">Merge pull request #108 from desenvolvimento-intuix/fix/RD-1786
+                                        <div class="sha">#431f10d</div>
+                                        <div class="message">Merge pull request #63 from desenvolvimento-intuix/fix/RD-1768
 
-fix: arrumado erro de tipagem do retorno do axios</div>
+Fix/rd 1768: Arrumado importacao da lib Argon2</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#8a6d578</div>
-                                        <div class="message">fix: arrumado erro de tipagem do retorno do axios</div>
+                                        <div class="sha">#87d11a4</div>
+                                        <div class="message">fix(RD-1768): Arrumado a importacao da lib de hash</div>
                                     </div>
                                 </div>
                             </section>
