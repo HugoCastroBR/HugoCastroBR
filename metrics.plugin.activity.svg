@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="623" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="590" class="">
     <defs>
         <style/>
     </defs>
@@ -29,20 +29,20 @@
                                 <div class="details">
                                     <div>on branch <span class="code">dnx</span></div>
                                     <div class="commit">
-                                        <div class="sha">#276aeb6</div>
-                                        <div class="message">Merge pull request #169 from desenvolvimento-intuix/develop
+                                        <div class="sha">#1de522c</div>
+                                        <div class="message">Merge pull request #173 from desenvolvimento-intuix/develop
 
 Develop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0adfaf9</div>
-                                        <div class="message">Merge pull request #168 from desenvolvimento-intuix/fix/RD-1817
+                                        <div class="sha">#d5ed6cc</div>
+                                        <div class="message">Merge pull request #172 from desenvolvimento-intuix/feature/RD-1826
 
-fix: refeito campo de Nome do usuario</div>
+feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e …</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ae17c49</div>
-                                        <div class="message">fix: refeito campo de Nome do usuario</div>
+                                        <div class="sha">#868b597</div>
+                                        <div class="message">feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e no botao (?)</div>
                                     </div>
                                 </div>
                             </section>
@@ -55,12 +55,12 @@ fix: refeito campo de Nome do usuario</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#169 Develop</span>
+                                        <span class="issue">#173 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>1 file changed <span class="code">++9 --1</span></div>
+                                    <div>2 files changed <span class="code">++55 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -72,12 +72,12 @@ fix: refeito campo de Nome do usuario</div>
                                     </svg>
                                     <div class="content">
                                         Opened
-                                        <span class="issue">#169 Develop</span>
+                                        <span class="issue">#173 Develop</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div> in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>1 file changed <span class="code">++9 --1</span></div>
+                                    <div>2 files changed <span class="code">++55 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -95,14 +95,14 @@ fix: refeito campo de Nome do usuario</div>
                                 <div class="details">
                                     <div>on branch <span class="code">develop</span></div>
                                     <div class="commit">
-                                        <div class="sha">#0adfaf9</div>
-                                        <div class="message">Merge pull request #168 from desenvolvimento-intuix/fix/RD-1817
+                                        <div class="sha">#d5ed6cc</div>
+                                        <div class="message">Merge pull request #172 from desenvolvimento-intuix/feature/RD-1826
 
-fix: refeito campo de Nome do usuario</div>
+feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e …</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#ae17c49</div>
-                                        <div class="message">fix: refeito campo de Nome do usuario</div>
+                                        <div class="sha">#868b597</div>
+                                        <div class="message">feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e no botao (?)</div>
                                     </div>
                                 </div>
                             </section>
@@ -115,12 +115,12 @@ fix: refeito campo de Nome do usuario</div>
                                     </svg>
                                     <div class="content">
                                         Merged
-                                        <span class="issue">#168 fix: refeito campo de Nome do usuario</span>
+                                        <span class="issue">#172 feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e …</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
-                                    <div>1 file changed <span class="code">++9 --1</span></div>
+                                    <div>opened by maarcusvinicius in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
+                                    <div>2 files changed <span class="code">++55 --8</span></div>
                                 </div>
                             </section>
                         </div>
@@ -132,11 +132,11 @@ fix: refeito campo de Nome do usuario</div>
                                     </svg>
                                     <div class="content">
                                         Reviewed
-                                        <span class="issue">#168 fix: refeito campo de Nome do usuario</span>
+                                        <span class="issue">#172 feat(RD-1826): Incluir vídeo obrigatório para todo primeiro acesso e …</span>
                                     </div>
                                 </div>
                                 <div class="details">
-                                    <div>opened by Ceagah2 in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
+                                    <div>opened by maarcusvinicius in <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span></div>
                                 </div>
                             </section>
                         </div>
@@ -147,45 +147,27 @@ fix: refeito campo de Nome do usuario</div>
                                         <path fill-rule="evenodd" d="M10.5 7.75a2.5 2.5 0 11-5 0 2.5 2.5 0 015 0zm1.43.75a4.002 4.002 0 01-7.86 0H.75a.75.75 0 110-1.5h3.32a4.001 4.001 0 017.86 0h3.32a.75.75 0 110 1.5h-3.32z"/>
                                     </svg>
                                     <div class="content">
-                                        Pushed 7 commits in
+                                        Pushed 3 commits in
                                         <span class="repo">desenvolvimento-intuix/intuix-capacitor-react-app</span>
                                     </div>
                                 </div>
                                 <div class="details">
                                     <div>on branch <span class="code">dnx</span></div>
                                     <div class="commit">
-                                        <div class="sha">#6e7f4d6</div>
-                                        <div class="message">Merge pull request #167 from desenvolvimento-intuix/develop
+                                        <div class="sha">#276aeb6</div>
+                                        <div class="message">Merge pull request #169 from desenvolvimento-intuix/develop
 
 Develop</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#4e51c9c</div>
-                                        <div class="message">solving conflicts</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#c2c859b</div>
-                                        <div class="message">Merge pull request #166 from desenvolvimento-intuix/fix/RD-1817
+                                        <div class="sha">#0adfaf9</div>
+                                        <div class="message">Merge pull request #168 from desenvolvimento-intuix/fix/RD-1817
 
-fix: Reversao dos arquivos podfile e podfile.lock</div>
+fix: refeito campo de Nome do usuario</div>
                                     </div>
                                     <div class="commit">
-                                        <div class="sha">#0758c9d</div>
-                                        <div class="message">fix: Reversao dos arquivos podfile e podfile.lock</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#1a7040e</div>
-                                        <div class="message">Merge pull request #164 from desenvolvimento-intuix/fix/RD-1817
-
-Fix/rd 1817</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#d0aacee</div>
-                                        <div class="message">fix(RD-1817): Arrumado o espacamento na tela de cadastro</div>
-                                    </div>
-                                    <div class="commit">
-                                        <div class="sha">#f91ba5e</div>
-                                        <div class="message">fix(RD-1817): Arrumado espacamento na tela de cadastro</div>
+                                        <div class="sha">#ae17c49</div>
+                                        <div class="message">fix: refeito campo de Nome do usuario</div>
                                     </div>
                                 </div>
                             </section>
